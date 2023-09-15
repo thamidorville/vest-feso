@@ -1,0 +1,1528 @@
+<!DOCTYPE html>
+<!-- saved from url=(0038)https://www.unifeso.edu.br/cursos/EaD/ -->
+<html lang="pt-br"><head><meta http-equiv="Content-Type" content="text/html; charset=UTF-8">
+    
+    <meta name="viewport" content="width=device-width, user-scalable=no">
+     <title>Unifeso - Cursos de Ead</title>
+    <meta name="description" content="Cursos">
+    <link rel="icon" type="image/png" href="https://www.unifeso.edu.br/images/favicon.png">
+    <meta name="author" content="Bruno Carvalho - Blue Inteligência">
+    <link href="./logo-graduacao_files/bootstrap.min.css" rel="stylesheet">
+    
+    <link href="./logo-graduacao_files/estilo-cursos.css" rel="stylesheet">
+    <link rel="stylesheet" href="./logo-graduacao_files/font-awesome.min.css">
+    <link rel="stylesheet" href="./logo-graduacao_files/owl.carousel.min.css">
+    <link rel="stylesheet" href="./logo-graduacao_files/efeitos.css">
+    <link rel="stylesheet" href="./logo-graduacao_files/style-padrao.css">
+
+    <script async="true" type="text/javascript" src="./logo-graduacao_files/analytics.js.download"></script><script async="true" type="text/javascript" src="./logo-graduacao_files/js"></script><script src="./logo-graduacao_files/jquery-3.2.1.min.js.download"></script>
+	<script src="./logo-graduacao_files/bootstrap.min.js.download"></script>
+    <script type="text/javascript" src="./logo-graduacao_files/owl.carousel.min.js.download"></script>
+	
+	
+	<!-- JS DOS CURSOS -->
+    <script type="text/javascript" src="./logo-graduacao_files/custom.js.download"></script>
+    
+
+<script>
+</script>
+
+<link href="./logo-graduacao_files/estilo-background.css" rel="stylesheet"><script async="true" type="text/javascript" src="./logo-graduacao_files/f.txt"></script></head>
+
+
+<body style="height: 100%;">
+
+
+    <div class="">
+        <style>
+	@media only screen and (min-width: 600px) {
+		.logo-nova {
+			margin-left: 10px !important;
+
+		}
+	}
+</style>
+
+<div class="row " style="width: 100%; margin: 0; padding: 0; " id="margin-cabecalho">
+	<div class="container-fluid">
+		<div class="hidden-custom" style="margin-top: 10px; margin-bottom: 20px; ">
+			<div class="col-md-6 ">
+				<p class="header-text" style="margin-left: 10px;">CENTRO UNIVERSITÁRIO SERRA DOS ÓRGÃOS
+				</p><p>
+			</p></div>
+			<div class="col-md-6 " style="text-align: right; ">
+				
+			<!-- <div class="col-xs-7 col-md-7 co-lg-7" >
+					<div style=" width: 170px; height: 35px; float: right;">
+						<div style="margin-top: 0px; margin-left: -60px;">
+							<div class="col-xs-12 col-md-12 co-lg-12">
+							<a href="https://unifeso.instructure.com/login/canvas" target="_BLANK" class="login-header" ><span class=" glyphicon glyphicon-user" style="margin-left: -3px"></span> Ambiente Virtual</a>
+							</div>
+						</div>
+					</div>
+				</div>				
+				<div class="input-group col-md-4">
+					<form action="https://www.unifeso.edu.br/cursos/busca" method="GET">
+						<input type="text" class="  search-query form-control impupesquisa" name="busca" placeholder="Procurar Curso" />
+					</form>
+					<span class="input-group-btn">
+						<button class="btn btn-dark" style="background-color: #000;" type="button">
+							<span class=" glyphicon glyphicon-search" style="color: #fff;"></span>
+						</button>
+					</span>
+				</div> -->
+
+				<div class="col-xs-7 col-md-7 co-lg-7">
+					<div style=" width: 170px; height: 35px; float: right;">
+						<div style="margin-top: 0px; margin-left: -60px;">
+							<div class="col-xs-12 col-md-12 co-lg-12">
+							<a href="https://unifeso.instructure.com/login/canvas" target="_BLANK" class=""><img src="./logo-graduacao_files/ambientevirtual_banner_principal_icone.png" alt="" srcset="" style="width: 100%;"></a>
+							</div>
+						</div>
+					</div>
+				</div>
+
+				<div class="col-xs-4 col-md-4 col-lg-4 ">
+				  <div class="hidden-custom3" style="float: left; margin-top: 6px; margin-right: 10px;font-size: 22px;">
+					<a href="https://www.facebook.com/feso.unifeso" class="link1" target="_BLANK"><i class="fa fa-facebook-square fa-2x" aria-hidden="true" style="color:#515151;"></i></a>
+					<a href="https://www.instagram.com/feso.unifeso/" class="link1" target="_BLANK"><i class="fa fa-instagram fa-2x" aria-hidden="true" style="color:#515151;"></i></a>
+					<a href="https://www.youtube.com/channel/UCqJHUIHPOB0SkdgiVExdSjw/featured" class="link1" target="_BLANK"><img src="./logo-graduacao_files/youtube icon.png" style="width: 38%;margin-top:-20px;" alt="" srcset=""></a>
+				  </div>
+				</div>
+
+
+			</div>
+			<br>
+		</div>
+
+
+
+
+		<div class="col-xs-12 col-md-12 col-lg-4">
+			<center><img src="./logo-graduacao_files/UNIFESO.png" class="img-logo logo-nova" style="padding: 10px; padding-left: 0px !important;  width: 220px !important"></center>
+		</div>
+
+		<br>
+		<br>
+		<div class="col-xs-12 col-md-12 col-lg-4 ">
+
+			<ul class="nav nav-tabs nav-justified">
+				<li role="presentation "><a href="https://www.unifeso.edu.br/index.php" class="animated-button thar-four menu-txt" id="menu-tops-active">Ensino</a></li>
+				<li role="presentation "><a href="https://www.unifeso.edu.br/pesquisa/" class="animated-button thar-four menu-txt" id="menu-tops">Pesquisa</a></li>
+				<li role="presentation "><a href="https://www.unifeso.edu.br/extensao/" class="animated-button thar-four menu-txt" id="menu-tops">Extensão</a></li>
+			</ul>
+
+		</div>
+
+		<!-- <div class="col-xs-4 col-md-4 col-lg-4 ">
+			<div class="hidden-custom3" style="float: right; margin-top: 6px; margin-right: 10px;">
+
+
+				<a href="https://www.facebook.com/feso.unifeso" class="link1" target="_BLANK"><i class="fa fa-facebook-square fa-2x" aria-hidden="true"></i></a>
+				<a href="https://www.instagram.com/feso.unifeso/" class="link1" target="_BLANK"><i class="fa fa-instagram fa-2x" aria-hidden="true"></i></a>
+				<a href="https://www.youtube.com/channel/UCqJHUIHPOB0SkdgiVExdSjw/featured" class="link1" target="_BLANK"><i class="fa fa-youtube fa-2x" aria-hidden="true"></i></a>
+
+
+			</div>
+		</div> -->
+
+	</div>
+
+
+
+
+	<div class="full-width2 hidden-custom " style="background-color: #cccccc; height: 25px; margin-top: -10px ;">
+	</div>
+
+	<!-- Modal Ambiente Virtual -->
+	<div id="VIRTUAL01" class="modal fade" role="dialog" style="margin-top: 30px;">
+		<div class="modal-dialog">
+
+			<!-- Modal content-->
+			<div class="modal-content">
+				<div class="modal-header" style="background-color: #006b64; color: #fff;">
+					<button type="button" class="close" data-dismiss="modal">×</button>
+					<h4 class="modal-title"> Escolha seu Ambiente</h4>
+				</div>
+				<div class="modal-body">
+					<p>
+						<!--<img src="images/"  width="50px" style="margin: 5px;"/><BR/>-->
+					</p>
+
+					<center><a href="https://unifeso.mrooms.net/login/index.php" target="_BLANK" class="b-estrutura hvrcenter" style="padding-top: 15px !important;padding-bottom: 10px !important; padding-right: 25px !important; padding-left: 25px !important; font-size: 17px;">Disciplinas On-line<br>(Apoio ao Presencial)</a>
+
+
+						<a href="https://unifeso.instructure.com/login/canvas" target="_BLANK" class="b-estrutura hvrcenter" style="padding-top: 15px !important;padding-bottom: 10px !important; padding-right: 25px !important; padding-left: 25px !important; font-size: 17px;">Disciplinas On-line<br>(Institucionais*)</a>
+						<br>
+						<p style="margin-top: 15px; font-size:13px">*Educação Permanente em Saúde, de Trabalho Educação e Saúde e de Metodologia Científica.</p>
+
+					</center>
+				</div>
+				<div class="modal-footer">
+					<button type="button" class="btn btn-default" data-dismiss="modal">Fechar</button>
+				</div>
+			</div>
+
+		</div>
+	</div>
+
+	<script>
+		$(".popup-btn").click(function(e) {
+			e.preventDefault();
+			var linkID = this.hash.replace("#", "");
+			$(".modal").each(function() {
+				var modalID = $(this).attr("id");
+				if (linkID === modalID) {
+					$(this).fadeIn(200);
+					$("body, html").addClass("modal-open");
+					$(".modal-backdrop").addClass("in");
+					$(this).addClass("in");
+				} else {
+					$(this).fadeOut();
+					$(this).removeClass("in");
+				}
+			});
+		});
+		$("body, button.close, .modal-footer button.btn").click(function() {
+			$("body, html").removeClass("modal-open");
+			$(".modal-backdrop").removeClass("in");
+			$(".modal").fadeOut();
+			$(".modal").removeClass("in");
+		});
+		$(".modal-content, .popup-btn, .modal-header .close, .modal-footer .btn").click(
+			function(e) {
+				e.stopPropagation();
+			}
+		);
+	</script>
+
+
+</div>        <div class=" ">
+
+            <style>
+    .navbar-collapse.collapse {
+        transition: height 0.2s;
+    }
+
+    .navbar-collapse.collapsing {
+        height: 0 !important;
+    }
+
+    .navbar-collapse.collapse.in {
+        max-height: none;
+        height: 100vh;
+    }
+
+    .menu-fixo {
+        position: fixed !important;
+        top: 0;
+        z-index: 99999999999999999999999999999999;
+        width: 100%;
+        background: #006B64;
+        /* background: rgba(0, 107, 100, 0.5); */
+    }
+
+    .menu-fixo:hover {
+        position: fixed !important;
+        top: 0;
+        z-index: 99999999999999999999999999999999;
+        width: 100%;
+        background: #006B64;
+        transition: 0.2s;
+    }
+
+    @media only screen and (max-width: 1366px) {
+        .menu-txt {
+            font-size: 16px !important;
+
+        }
+    }
+</style>
+<!--<script src="https://code.jquery.com/jquery-1.11.1.min.js"></script>-->
+
+<script type="text/javascript">
+    window.alert = function() {};
+    var defaultCSS = document.getElementById('bootstrap-css');
+
+    function changeCSS(css) {
+        if (css) $('head > link').filter(':first').replaceWith('<link rel="stylesheet" href="' + css + '" type="text/css" />');
+        else $('head > link').filter(':first').replaceWith(defaultCSS);
+    }
+    $(document).ready(function() {
+        var iframe_height = parseInt($('html').height());
+        window.parent.postMessage(iframe_height, 'https://bootsnipp.com');
+    });
+</script>
+
+
+<style>
+    @media only screen and (min-width: 1144px) {
+
+
+
+        /* To Dropdown navbar dropdown on hover */
+        .navbar-nav>li:hover>.dropdown-menu {
+            display: block;
+        }
+
+        .dropdown-submenu {
+            position: relative;
+        }
+
+        .dropdown-submenu>.dropdown-menu {
+            top: 0;
+            left: 100%;
+            margin-top: -6px;
+            margin-left: -1px;
+
+        }
+
+        .dropdown-submenu:hover>.dropdown-menu {
+            display: block;
+        }
+
+        .dropdown-submenu>a:after {}
+
+        .dropdown-submenu:hover>a:after {
+            border-left-color: #fff;
+        }
+
+        .dropdown-submenu.pull-left {
+            float: none;
+        }
+
+        .dropdown-submenu.pull-left>.dropdown-menu {
+            left: -100%;
+            margin-left: 10px;
+            -webkit-border-radius: 6px 0 6px 6px;
+            -moz-border-radius: 6px 0 6px 6px;
+            border-radius: 6px 0 6px 6px;
+        }
+
+
+
+    }
+</style>
+
+<header class="hidden-custom2 navbar-fixed-top " style="padding-top: -20px;">
+
+    <nav class="navbar navbar-default tembus" style="background-color: #006b64; border: none;">
+        <div class="">
+            <div class="navbar-header " style="background-color: #006b64; ">
+
+                <button type="button" class="navbar-toggle" data-toggle="collapse" data-target="#myNavbar">
+                    <span class="icon-bar" style="background-color: #fff;"></span>
+                    <span class="icon-bar" style="background-color: #fff;"></span>
+                    <span class="icon-bar" style="background-color: #fff;"></span>
+                </button>
+
+                <button type="button" class="navbar-toggle" style="float: left !important; left: 15px; padding: 6px 10px 6px 10px; border-radius: 20px; background-color: #fff;" onclick="window.open(&#39;https://unifeso.instructure.com/login/canvas&#39;);">
+                    <span class=" glyphicon glyphicon-user" style=" color: #006b64;  "></span>
+                </button>
+            </div>
+
+            <div class="collapse navbar-collapse" id="myNavbar" style="background-color: #006b64; border: none;">
+                <ul class="nav navbar-nav navbar-right" style="background-color: #006b64;">
+                    <li><a href="https://www.unifeso.edu.br/index.php" class="hvrcenter menu-text" style="color: #fff;">Principal</a></li>
+
+                    <li class="dropdown">
+                        <a href="https://www.unifeso.edu.br/cursos/EaD/#" class="dropdown-toggle menu-text " data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" style="color: #fff;">O Unifeso</a>
+                        <ul class="dropdown-menu">
+                            <li class=""><a href="https://www.unifeso.edu.br/sobre-unifeso.php" class="hvrcenter" style="color: #fff;">O UNIFESO</a></li>
+                            <li class=""><a href="https://www.unifeso.edu.br/sobre-feso.php" class="hvrcenter" style="color: #fff;">A FESO</a></li>
+                            <li class=""><a href="https://www.unifeso.edu.br/estrutura.php" class="hvrcenter" style="color: #fff;">Infraestrutura</a></li>
+                            <li><a href="https://www.unifeso.edu.br/centros/ccs" class="hvrcenter menu-txt" style="color: #fff;">Direção Acadêmica das Ciências da Saúde</a></li>
+                            <li><a href="https://www.unifeso.edu.br/centros/cchs" class="hvrcenter menu-txt" style="color: #fff;">Direção Acadêmica das Ciências Humanas e Tecnológicas</a></li>
+                            <!-- <li><a href="https://www.unifeso.edu.br/centros/cct" class="hvrcenter menu-txt" style="color: #fff;">Centro de Ciências e Tecnologia</a></li> -->
+                            <li class=""><a href="https://www.unifeso.edu.br/cpa.php" class="hvrcenter" style="color: #fff;">CPA</a></li>
+                            <li class=""><a href="https://www.unifeso.edu.br/secretaria.php" class="hvrcenter " style="color: #fff;">Secretaria</a></li>
+                            <li class=""><a href="https://www.unifeso.edu.br/biblioteca.php" class="hvrcenter " style="color: #fff;">Biblioteca</a></li>
+                            <li class=""><a href="https://www.unifeso.edu.br/noticias.php" class="hvrcenter " style="color: #fff;">Notícias</a></li>
+                            <li class=""><a href="https://www.unifeso.edu.br/ouvidoria.php" class="hvrcenter " style="color: #fff;">Ouvidoria</a></li>
+                            <li class=""><a href="https://www.unifeso.edu.br/portal_de_privacidade.php" class="hvrcenter " style="color: #fff;">Portal de Privacidade</a></li>
+                            <li class=""><a href="https://www.unifeso.edu.br/transparencia.php" class="hvrcenter " style="color: #fff;">Portal da Transparência</a></li>
+                            <li class=""><a href="https://www.unifeso.edu.br/ceso" class="hvrcenter" style="color: #fff;" target="_blank">O CESO</a></li>
+                        </ul>
+                    </li>
+
+                    <li class="dropdown">
+                        <a href="https://www.unifeso.edu.br/cursos/EaD/#" class="dropdown-toggle menu-text" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" style="color: #fff; padding: 10px 15px">Cursos</a>
+                        <ul class="dropdown-menu">
+                            <li class="dropdown-submenu">
+                                <a href="https://www.unifeso.edu.br/cursos/EaD/#" class="dropdown-toggle" data-toggle="submenu" role="button" aria-haspopup="true" aria-expanded="false" style="color: #fff; padding: 10px 15px">Graduação</a>
+                                <ul class="dropdown-submenu">
+                                    <li><a href="https://www.unifeso.edu.br/cursos/graduacao/" class="hvrcenter menu-txt">Presencial</a></li>
+                                    <li><a href="https://www.unifeso.edu.br/cursos/EaD/" class="hvrcenter menu-txt">EaD</a></li>
+                                </ul>
+                            </li>
+                            <li class=" ">
+                                <a href="https://www.unifeso.edu.br/cursos/pos/" class="hvrcenter " style="color: #fff;">Pós-Graduação</a>
+                                <a href="https://www.unifeso.edu.br/cursos/extensao/" class="hvrcenter " style="color: #fff;">Extensão</a>
+                                <!-- <li><a href="https://www.unifeso.edu.br/cursos/residencia-medica/" class="hvrcenter " class="hoverable" style="color: #fff;">Residência Médica</a></li> -->
+                            </li>
+                        </ul>
+                    </li>
+
+                    <li class="dropdown">
+                        <a href="https://www.unifeso.edu.br/cursos/EaD/#" class="dropdown-toggle menu-text " data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" style="color: #fff;">Serviços</a>
+                        <ul class="dropdown-menu">
+                            <li class=""><a href="https://www.unifeso.edu.br/hospital" target="_blank" class="hvrcenter menu-txt hoverable" style="color: #fff;">Hospital das Clínicas de Teresópolis Costantino Ottaviano<!--Hospital das Clínicas de Teresópolis Constantino Ottaviano--></a></li>
+                            <li class=""><a href="https://www.unifeso.edu.br/servicos/odonto_esc.php" target="_blank" class="hvrcenter menu-txt hoverable" style="color: #fff;">Clínica-Escola de Odontologia</a></li>
+                            <li class=""><a href="https://www.unifeso.edu.br/servicos/odonto_pro.php" target="_blank" class="hvrcenter menu-txt hoverable" style="color: #fff;">Clínica Profissional de Odontologia</a></li>
+                            <li class=""><a href="https://www.unifeso.edu.br/servicos/fisioterapia.php" target="_blank" class="hvrcenter menu-txt hoverable" style="color: #fff;">Clínica-Escola de Fisioterapia</a></li>
+                            <li class=""><a href="https://www.unifeso.edu.br/servicos/veterinaria.php" target="_blank" class="hvrcenter menu-txt hoverable" style="color: #fff;">Clínica-Escola de Veterinária</a></li>
+                            <li class=""><a href="https://www.unifeso.edu.br/servicos/npj.php" target="_blank" class="hvrcenter menu-txt hoverable" style="color: #fff;">Núcleo de Práticas Jurídicas</a></li>
+                        </ul>
+                    </li>
+                    <li><a href="https://www.unifeso.edu.br/beneficios.php" class="hvrcenter menu-text" style="color: #fff;">Benefícios</a></li>
+                    <!--<li><a href="#" class="hvrcenter menu-text">Formas de Ingresso</a></li>-->
+                    <li><a href="https://www.unifeso.edu.br/aluno.php" class="hvrcenter menu-text" style="color: #fff;">Sou Aluno</a></li>
+                    <li><a href="https://www.unifeso.edu.br/funcionario.php" class="hvrcenter menu-text" style="color: #fff;">Sou Funcionário</a></li>
+                    <li><a href="https://www.unifeso.edu.br/noticias.php" class="hvrcenter menu-text" style="color: #fff;">Notícias</a></li>
+                    
+                    <li class="dropdown1">
+                        <a href="https://www.unifeso.edu.br/fale-conosco.php" class="dropdown-toggle menu-text  " data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false" style="color: #fff;">Fale Conosco</a>
+                        <ul class="dropdown-menu">
+                            <li class=""><a href="https://www.unifeso.edu.br/nossos_contatos.php" class="hvrcenter menu-txt hoverable" style="color: #fff;">Fale Conosco </a></li>
+                            <li class=""><a href="https://www.unifeso.edu.br/matricula.php" class="hvrcenter menu-txt hoverable;" style="color: #fff;">Central de Matrícula e Relacionamento</a></li>
+                            <li class=""><a href="https://www.unifeso.edu.br/secretaria.php" class="hvrcenter menu-txt hoverable" style="color: #fff;">Secretaria</a></li>
+                            <li class=""><a href="https://www.unifeso.edu.br/r-humanos.php" class="hvrcenter menu-txt hoverable" style="color: #fff;">Trabalhe conosco</a></li>
+                            <li class=""><a href="https://www.unifeso.edu.br/estrutura.php" class="hvrcenter menu-txt hoverable" style="color: #fff;">Como chegar</a></li>
+                            <li class=""><a href="https://www.unifeso.edu.br/detalhe-estrutura.php?campus=1" class="hvrcenter  menu-txt hoverable" style="color: #fff;">Tour virtual</a></li>
+                            <li class=""><a href="https://www.unifeso.edu.br/ouvidoria.php" class="hvrcenter  menu-txt hoverable" style="color: #fff;">Ouvidoria</a></li>
+                        </ul>
+                    </li>
+                </ul>
+            </div>
+        </div>
+    </nav>
+</header>
+
+<script>
+    $(function() {
+        var nav = $('#menuHeader');
+        $(window).scroll(function() {
+            if ($(this).scrollTop() > 150) {
+                nav.addClass("menu-fixo");
+            } else {
+                nav.removeClass("menu-fixo");
+            }
+        });
+    });
+</script>
+
+<div class="barra hidden-custom" id="menuHeader">
+    <ul class="nav nav-tabs" id="menu2">
+
+
+        <li><a href="https://www.unifeso.edu.br/index.php" class="hvrcenter menu-text menu-txt">Principal</a></li>
+
+        <li class="dropdown3">
+            <a href="https://www.unifeso.edu.br/cursos/EaD/#" class="dropdown-toggle hvrcenter menu-text menu-txt" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">O Unifeso <i class="fa fa-angle-down" aria-hidden="true" style="color: #fff; font-size: 15px; "></i></a>
+            <ul class="dropdown-menu">
+
+
+
+
+                <li class=""><a href="https://www.unifeso.edu.br/sobre-feso.php" class="hvrcenter menu-txt">A Feso</a></li>
+                <li class=""><a href="https://www.unifeso.edu.br/sobre-unifeso.php" class="hvrcenter menu-txt">O Unifeso</a></li>
+                <li class=""><a href="https://www.unifeso.edu.br/ceso" class="hvrcenter menu-txt" target="_blank">O Ceso</a></li>
+                <li class=""><a href="https://www.unifeso.edu.br/estrutura.php" class="hvrcenter menu-txt">Infraestrutura</a></li>
+                <li class="dropdown-submenu">
+                    <!-- <a  class="dropdown-toggle hvrcenter menu-txt" data-toggle="dropdown">Centros de Ensino,
+                        <br>Pesquisa e Extensão <i class="fa fa-angle-right" style="padding-left: 5px"></i></a> -->
+                    <a class="dropdown-toggle hvrcenter menu-txt" data-toggle="dropdown">Direções Acadêmicas<i class="fa fa-angle-right" style="padding-left: 5px"></i></a>
+                    <ul class="dropdown-menu">
+                        <!-- <li><a href="https://www.unifeso.edu.br/centros/ccs" class="hvrcenter menu-txt">Centro de Ciências da Saúde</a></li> -->
+                        <li><a href="https://www.unifeso.edu.br/direcao/dacs" class="hvrcenter menu-txt">Direção Acadêmica das Ciências da Saúde</a></li>
+                        <li><a href="https://www.unifeso.edu.br/direcao/dacht" class="hvrcenter menu-txt">Direção Acadêmica das Ciências Humanas e Tecnológicas</a></li>
+                        <!-- <li><a href="https://www.unifeso.edu.br/centros/cct" class="hvrcenter menu-txt">Centro de Ciências e Tecnologia</a></li> -->
+
+
+
+                    </ul>
+                </li>
+                <li class=""><a href="https://www.unifeso.edu.br/cpa.php" class="hvrcenter menu-txt">CPA</a></li>
+                <li class="dropdown-submenu">
+                    <a href="https://www.unifeso.edu.br/secretaria.php" class="hvrcenter menu-txt">Secretaria <i class="fa fa-angle-right" style="padding-left: 5px"></i></a>
+
+                    <ul class="dropdown-menu">
+                        <li><a href="https://portal.unifeso.edu.br/FrameHTML/web/app/Edu/PortalEducacional/js/aluno/diploma/" class="hvrcenter menu-txt" style="color: #fff;">Consulta de Diplomas Físicos</a></li>
+                        <li><a href="https://dd.diplomax.cloud/" class="hvrcenter menu-txt" style="color: #fff;">Consulta de Diplomas Digitais</a></li>
+
+
+                    </ul>
+                </li>
+                <li class=""><a href="https://www.unifeso.edu.br/biblioteca.php" class="hvrcenter menu-txt ">Biblioteca</a></li>
+                <li class=""><a href="https://www.unifeso.edu.br/noticias.php" class="hvrcenter  menu-txt">Notícias</a></li>
+                <li class=""><a href="https://www.unifeso.edu.br/ouvidoria.php" class="hvrcenter  menu-txt">Ouvidoria</a></li>
+                <li class=""><a href="https://www.unifeso.edu.br/portal_de_privacidade.php" class="hvrcenter  menu-txt">Portal de Privacidade</a></li>
+                <li class=""><a href="https://www.unifeso.edu.br/transparencia.php" class="hvrcenter  menu-txt">Portal da Transparência</a></li>
+            </ul>
+        </li>
+        <li class="dropdown">
+            <a href="https://www.unifeso.edu.br/cursos/EaD/#" class="dropdown-toggle hvrcenter menu-text menu-txt" data-toggle="dropdown" data-hover="dropdown" aria-expanded="false">Cursos <i class="fa fa-angle-down" aria-hidden="true" style="color: #fff; font-size: 15px; "></i></a>
+            <ul class="dropdown-menu">
+                <li>
+
+                    
+                </li><li class="dropdown-submenu">
+                    <a tabindex="-1" href="https://www.unifeso.edu.br/cursos/EaD/#" class="hvrcenter menu-txt">Graduação <i class="fa fa-angle-right" style="padding-left: 5px"></i></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="https://www.unifeso.edu.br/cursos/graduacao/" class="hvrcenter menu-txt">Presencial</a></li>
+                        <!-- <li><a href="https://vestibular.unifeso.edu.br/" class="hvrcenter menu-txt" target="_blank">EaD</a></li> -->
+                        <li><a href="https://www.unifeso.edu.br/cursos/EaD/" class="hvrcenter menu-txt">EaD</a></li>
+
+                    </ul>
+                </li>
+
+
+                <li class="dropdown-submenu">
+                    <a tabindex="-1" href="https://www.unifeso.edu.br/cursos/EaD/#" class="hvrcenter menu-txt">Pós-Graduação <i class="fa fa-angle-right" style="padding-left: 5px"></i></a>
+                    <ul class="dropdown-menu">
+                        <li><a href="https://www.unifeso.edu.br/cursos/pos/" class="hvrcenter menu-txt">Presencial</a></li>
+                        <li><a href="https://unifeso.edu.br/ead/" class="hvrcenter menu-txt" target="_blank">On-line</a></li>
+                    </ul>
+                </li>
+
+                <li class="dropdown-submenu">
+                    <a href="https://www.unifeso.edu.br/cursos/extensao/" class="hvrcenter menu-txt">Extensão </a>
+                    <!-- <ul class="dropdown-menu">
+                            <li><a href="https://www.unifeso.edu.br/cursos/extensao/" class="hvrcenter menu-txt">Presencial</a></li>
+                                                
+											
+                         </ul>
+                         </li>-->
+                    <!-- <li><a href="https://www.unifeso.edu.br/cursos/residencia-medica/" class="hvrcenter menu-txt" class="hoverable">Residência Médica</a></li> -->
+
+
+                </li>
+            </ul>
+        </li>
+        <li class="dropdown3">
+            <a href="https://www.unifeso.edu.br/fale-conosco.php" class="dropdown-toggle hvrcenter hoverable menu-text menu-txt" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Serviços <i class="fa fa-angle-down" aria-hidden="true" style="color: #fff; font-size: 15px; "></i></a>
+
+            <ul class="dropdown-menu">
+
+                <li class=""><a href="https://www.unifeso.edu.br/hospital" target="_blank" class="hvrcenter menu-txt hoverable">Hospital das Clínicas de Teresópolis Costantino Ottaviano
+                        <!--Hospital das Clínicas de Teresópolis Constantino Ottaviano-->
+                    </a></li>
+                <li class=""><a href="https://www.unifeso.edu.br/servicos/odonto_esc.php" target="_blank" class="hvrcenter menu-txt hoverable">Clínica-Escola de Odontologia</a></li>
+                <li class=""><a href="https://www.unifeso.edu.br/servicos/odonto_pro.php" target="_blank" class="hvrcenter menu-txt hoverable">Clínica Profissional de Odontologia</a></li>
+                <li class=""><a href="https://www.unifeso.edu.br/servicos/fisioterapia.php" target="_blank" class="hvrcenter menu-txt hoverable">Clínica-Escola de Fisioterapia</a></li>
+                <li class=""><a href="https://www.unifeso.edu.br/servicos/veterinaria.php" target="_blank" class="hvrcenter menu-txt hoverable">Clínica-Escola de Veterinária</a></li>
+                <li class=""><a href="https://www.unifeso.edu.br/servicos/npj.php" target="_blank" class="hvrcenter menu-txt hoverable">Núcleo de Prática Jurídica</a></li>
+            </ul>
+
+        </li>
+
+
+
+        <!--<li><a href="#" class="hvrcenter menu-text">Formas de Ingresso</a></li>-->
+        <li><a href="https://www.unifeso.edu.br/beneficios.php" class="hvrcenter menu-text menu-txt">Benefícios</a></li>
+
+        <li><a href="https://www.unifeso.edu.br/aluno.php" class="hvrcenter menu-text menu-txt">Sou Aluno</a></li>
+        <li><a href="https://www.unifeso.edu.br/funcionario.php" class="hvrcenter menu-text menu-txt">Sou Funcionário</a></li>
+        <li><a href="https://www.unifeso.edu.br/noticias.php" class="hvrcenter menu-text menu-txt">Notícias</a></li>
+        <li class="dropdown3">
+            <a href="https://www.unifeso.edu.br/fale-conosco.php" class="dropdown-toggle menu-text hvrcenter menu-txt hoverable" data-toggle="dropdown" role="button" aria-haspopup="true" aria-expanded="false">Fale Conosco <i class="fa fa-angle-down" aria-hidden="true" style="color: #fff; font-size: 15px; "></i></a>
+
+            <ul class="dropdown-menu">
+
+                <li class=""><a href="https://www.unifeso.edu.br/nossos_contatos.php" class="hvrcenter menu-txt hoverable">Fale Conosco </a></li>
+                <li class=""><a href="https://www.unifeso.edu.br/matricula.php" class="hvrcenter menu-txt hoverable;">Central de Matrícula e Relacionamento</a></li>
+                <li class=""><a href="https://www.unifeso.edu.br/secretaria.php" class="hvrcenter menu-txt hoverable">Secretaria</a></li>
+                <li class=""><a href="https://www.unifeso.edu.br/r-humanos.php" class="hvrcenter menu-txt hoverable">Trabalhe conosco</a></li>
+                <li class=""><a href="https://www.unifeso.edu.br/estrutura.php" class="hvrcenter menu-txt hoverable">Como chegar</a></li>
+                <li class=""><a href="https://www.unifeso.edu.br/detalhe-estrutura.php?campus=1" class="hvrcenter  menu-txt hoverable">Tour virtual</a></li>
+                <li class=""><a href="https://www.unifeso.edu.br/ouvidoria.php" class="hvrcenter  menu-txt hoverable">Ouvidoria</a></li>
+
+            </ul>
+
+        </li>
+
+
+    </ul>
+    
+
+    
+
+
+
+
+
+
+
+</div>
+
+            <link href="./logo-graduacao_files/font-awesome.min(1).css" rel="stylesheet" media="all">
+            <link href="./logo-graduacao_files/animate.min.css" rel="stylesheet" media="all">
+
+
+
+            <div id="bootstrap-touch-slider" class="carousel bs-slider slide  control-round indicators-line" data-ride="carousel" data-pause="hover" data-interval="5000">
+
+
+                <div class="carousel-inner" role="listbox" style="height: 450px; background-image: url(&#39;../../images/graduacao.jpg&#39;);  background-position: center;  background-position: 30% 40%; ">
+
+
+                    <div class="item active bs-slider-overlay">
+
+
+
+
+                        <div class="container">
+                            <div class="">
+
+                                <div class="slide-text slide_style_center">
+
+                                    <h1 data-animation="animated flipInX" class="titulo-slide" style="line-height: 40px;">Cursos de Graduação EaD</h1>
+
+
+                                </div>
+                            </div>
+                        </div>
+
+
+
+
+
+                    </div>
+
+
+                </div>
+
+
+            </div>
+
+
+        </div>
+
+           <div class="container-fluid" style="width:90%; margin: 0 auto;">
+            <div class="">
+                <div class="gallery col-lg-12 col-md-12 col-sm-12 col-xs-12">
+                    <!-- <center>  <h1 class="gallery-title">Cursos de Graduação</h1> </center> -->
+                </div>
+                <br>
+                <br>
+                <div align="center">
+                    <button style="border-radius: 15px;" class="btn btn-default filter-button" data-filter="all">Todos</button>
+                                            <button style="border-radius: 15px;white-space: normal;" class="btn btn-default filter-button" id="filtro11" data-filter="cat11">Direção Acadêmica das Ciências Humanas e Tecnológicas</button>
+                                            <button style="border-radius: 15px;white-space: normal;" class="btn btn-default filter-button" id="filtro12" data-filter="cat12">Direção Acadêmica das Ciências da Saúde</button>
+                    
+                </div>
+                <br>
+                                    <!-- <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-12 filter cat11">
+                        <a href="administracao-ead">
+                    <img style="border-radius: 20px 20px 20px 0px;" src="../images/cursos/b8e7f11f49373996072340874583bc37.jpg" class="img-responsive">
+                        <a style="border-radius: 0; margin-top: 4px; background-color: #fff; color: #016A65; font-size: 20px;" class="btn Tex efect" href="administracao-ead">Administração EaD</a>
+                        <hr style="margin-top: 0rem;margin-bottom: 1rem;border: 0;border-top: 1px solid #016A65;width: 14rem;display: table-cell;">
+                        </a>
+                    </div> -->
+
+
+
+                    <div class="cursonew gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-12 filter cat11">
+                        <a href="https://www.unifeso.edu.br/cursos/EaD/administracao-ead">
+                        <img style="border-radius: 20px 20px 20px 0px;" src="./logo-graduacao_files/b8e7f11f49373996072340874583bc37.jpg" class="img-responsive">
+                       <div style="">
+                       <h3 style="margin-top: 4px;color: #016A65; font-size: 20px;height: 30px;">
+                       Administração EaD</h3>
+                       </div>    
+                       </a>
+            </div>
+
+                    
+                                    <!-- <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-12 filter cat12">
+                        <a href="biomedicina-ead">
+                    <img style="border-radius: 20px 20px 20px 0px;" src="../images/cursos/62b5b6d0f9eb55285f7ac6deac83f343.jpg" class="img-responsive">
+                        <a style="border-radius: 0; margin-top: 4px; background-color: #fff; color: #016A65; font-size: 20px;" class="btn Tex efect" href="biomedicina-ead">Biomedicina EaD</a>
+                        <hr style="margin-top: 0rem;margin-bottom: 1rem;border: 0;border-top: 1px solid #016A65;width: 14rem;display: table-cell;">
+                        </a>
+                    </div> -->
+
+
+
+                    <div class="cursonew gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-12 filter cat12">
+                        <a href="https://www.unifeso.edu.br/cursos/EaD/biomedicina-ead">
+                        <img style="border-radius: 20px 20px 20px 0px;" src="./logo-graduacao_files/62b5b6d0f9eb55285f7ac6deac83f343.jpg" class="img-responsive">
+                       <div style="">
+                       <h3 style="margin-top: 4px;color: #016A65; font-size: 20px;height: 30px;">
+                       Biomedicina EaD</h3>
+                       </div>    
+                       </a>
+            </div>
+
+                    
+                                    <!-- <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-12 filter cat11">
+                        <a href="ciencia-contabeis-ead">
+                    <img style="border-radius: 20px 20px 20px 0px;" src="../images/cursos/daf87a6c25fe84ee18eff681ca39e3e9.jpg" class="img-responsive">
+                        <a style="border-radius: 0; margin-top: 4px; background-color: #fff; color: #016A65; font-size: 20px;" class="btn Tex efect" href="ciencia-contabeis-ead">Ciências Contábeis EaD</a>
+                        <hr style="margin-top: 0rem;margin-bottom: 1rem;border: 0;border-top: 1px solid #016A65;width: 14rem;display: table-cell;">
+                        </a>
+                    </div> -->
+
+
+
+                    <div class="cursonew gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-12 filter cat11">
+                        <a href="https://www.unifeso.edu.br/cursos/EaD/ciencia-contabeis-ead">
+                        <img style="border-radius: 20px 20px 20px 0px;" src="./logo-graduacao_files/daf87a6c25fe84ee18eff681ca39e3e9.jpg" class="img-responsive">
+                       <div style="">
+                       <h3 style="margin-top: 4px;color: #016A65; font-size: 20px;height: 30px;">
+                       Ciências Contábeis EaD</h3>
+                       </div>    
+                       </a>
+            </div>
+
+                    
+                                    <!-- <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-12 filter cat12">
+                        <a href="ed-fisica-bacharelado ">
+                    <img style="border-radius: 20px 20px 20px 0px;" src="../images/cursos/00a868c255e55d744ab265cc17b1e75a.jpg" class="img-responsive">
+                        <a style="border-radius: 0; margin-top: 4px; background-color: #fff; color: #016A65; font-size: 20px;" class="btn Tex efect" href="ed-fisica-bacharelado ">Educação Física - Bacharelado EaD</a>
+                        <hr style="margin-top: 0rem;margin-bottom: 1rem;border: 0;border-top: 1px solid #016A65;width: 14rem;display: table-cell;">
+                        </a>
+                    </div> -->
+
+
+
+                    <div class="cursonew gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-12 filter cat12">
+                        <a href="https://www.unifeso.edu.br/cursos/EaD/ed-fisica-bacharelado">
+                        <img style="border-radius: 20px 20px 20px 0px;" src="./logo-graduacao_files/00a868c255e55d744ab265cc17b1e75a.jpg" class="img-responsive">
+                       <div style="">
+                       <h3 style="margin-top: 4px;color: #016A65; font-size: 20px;height: 30px;">
+                       Educação Física - Bacharelado EaD</h3>
+                       </div>    
+                       </a>
+            </div>
+
+                    
+                                    <!-- <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-12 filter cat12">
+                        <a href="ed-fisica-licenciatura">
+                    <img style="border-radius: 20px 20px 20px 0px;" src="../images/cursos/5824a5d120c898a55ea086b5a84772c6.png" class="img-responsive">
+                        <a style="border-radius: 0; margin-top: 4px; background-color: #fff; color: #016A65; font-size: 20px;" class="btn Tex efect" href="ed-fisica-licenciatura">Educação Física - Licenciatura EaD</a>
+                        <hr style="margin-top: 0rem;margin-bottom: 1rem;border: 0;border-top: 1px solid #016A65;width: 14rem;display: table-cell;">
+                        </a>
+                    </div> -->
+
+
+
+                    <div class="cursonew gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-12 filter cat12">
+                        <a href="https://www.unifeso.edu.br/cursos/EaD/ed-fisica-licenciatura">
+                        <img style="border-radius: 20px 20px 20px 0px;" src="./logo-graduacao_files/5824a5d120c898a55ea086b5a84772c6.png" class="img-responsive">
+                       <div style="">
+                       <h3 style="margin-top: 4px;color: #016A65; font-size: 20px;height: 30px;">
+                       Educação Física - Licenciatura EaD</h3>
+                       </div>    
+                       </a>
+            </div>
+
+                    
+                                    <!-- <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-12 filter cat12">
+                        <a href="farmacia-ead">
+                    <img style="border-radius: 20px 20px 20px 0px;" src="../images/cursos/e9fa40f51b71602ee19a2300fe7d059e.png" class="img-responsive">
+                        <a style="border-radius: 0; margin-top: 4px; background-color: #fff; color: #016A65; font-size: 20px;" class="btn Tex efect" href="farmacia-ead">Farmácia EaD</a>
+                        <hr style="margin-top: 0rem;margin-bottom: 1rem;border: 0;border-top: 1px solid #016A65;width: 14rem;display: table-cell;">
+                        </a>
+                    </div> -->
+
+
+
+                    <div class="cursonew gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-12 filter cat12">
+                        <a href="https://www.unifeso.edu.br/cursos/EaD/farmacia-ead">
+                        <img style="border-radius: 20px 20px 20px 0px;" src="./logo-graduacao_files/e9fa40f51b71602ee19a2300fe7d059e.png" class="img-responsive">
+                       <div style="">
+                       <h3 style="margin-top: 4px;color: #016A65; font-size: 20px;height: 30px;">
+                       Farmácia EaD</h3>
+                       </div>    
+                       </a>
+            </div>
+
+                    
+                                    <!-- <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-12 filter cat12">
+                        <a href="nutricao-ead">
+                    <img style="border-radius: 20px 20px 20px 0px;" src="../images/cursos/34ca1a5dc04094859f8287e8823fbf6b.jpg" class="img-responsive">
+                        <a style="border-radius: 0; margin-top: 4px; background-color: #fff; color: #016A65; font-size: 20px;" class="btn Tex efect" href="nutricao-ead">Nutrição EaD</a>
+                        <hr style="margin-top: 0rem;margin-bottom: 1rem;border: 0;border-top: 1px solid #016A65;width: 14rem;display: table-cell;">
+                        </a>
+                    </div> -->
+
+
+
+                    <div class="cursonew gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-12 filter cat12">
+                        <a href="https://www.unifeso.edu.br/cursos/EaD/nutricao-ead">
+                        <img style="border-radius: 20px 20px 20px 0px;" src="./logo-graduacao_files/34ca1a5dc04094859f8287e8823fbf6b.jpg" class="img-responsive">
+                       <div style="">
+                       <h3 style="margin-top: 4px;color: #016A65; font-size: 20px;height: 30px;">
+                       Nutrição EaD</h3>
+                       </div>    
+                       </a>
+            </div>
+
+                    
+                                    <!-- <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-12 filter cat11">
+                        <a href="pedagogia">
+                    <img style="border-radius: 20px 20px 20px 0px;" src="../images/cursos/69d04b2018d0e94d6385771145c2a867.png" class="img-responsive">
+                        <a style="border-radius: 0; margin-top: 4px; background-color: #fff; color: #016A65; font-size: 20px;" class="btn Tex efect" href="pedagogia">Pedagogia EaD</a>
+                        <hr style="margin-top: 0rem;margin-bottom: 1rem;border: 0;border-top: 1px solid #016A65;width: 14rem;display: table-cell;">
+                        </a>
+                    </div> -->
+
+
+
+                    <div class="cursonew gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-12 filter cat11">
+                        <a href="https://www.unifeso.edu.br/cursos/EaD/pedagogia">
+                        <img style="border-radius: 20px 20px 20px 0px;" src="./logo-graduacao_files/69d04b2018d0e94d6385771145c2a867.png" class="img-responsive">
+                       <div style="">
+                       <h3 style="margin-top: 4px;color: #016A65; font-size: 20px;height: 30px;">
+                       Pedagogia EaD</h3>
+                       </div>    
+                       </a>
+            </div>
+
+                    
+                                    <!-- <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-12 filter cat11">
+                        <a href="ads">
+                    <img style="border-radius: 20px 20px 20px 0px;" src="../images/cursos/c7a3996267840a83f8e65af74459ead5.png" class="img-responsive">
+                        <a style="border-radius: 0; margin-top: 4px; background-color: #fff; color: #016A65; font-size: 20px;" class="btn Tex efect" href="ads">Tecnologia em Análise e Desenvolvimento de Sistemas EaD</a>
+                        <hr style="margin-top: 0rem;margin-bottom: 1rem;border: 0;border-top: 1px solid #016A65;width: 14rem;display: table-cell;">
+                        </a>
+                    </div> -->
+
+
+
+                    <div class="cursonew gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-12 filter cat11">
+                        <a href="https://www.unifeso.edu.br/cursos/EaD/ads">
+                        <img style="border-radius: 20px 20px 20px 0px;" src="./logo-graduacao_files/c7a3996267840a83f8e65af74459ead5.png" class="img-responsive">
+                       <div style="">
+                       <h3 style="margin-top: 4px;color: #016A65; font-size: 20px;height: 30px;">
+                       Tecnologia em Análise e Desenvolvimento de Sistemas EaD</h3>
+                       </div>    
+                       </a>
+            </div>
+
+                    
+                                    <!-- <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-12 filter cat11">
+                        <a href="Gestao-ambiental">
+                    <img style="border-radius: 20px 20px 20px 0px;" src="../images/cursos/30a50663a95aa112a6022b663b30f4b5.png" class="img-responsive">
+                        <a style="border-radius: 0; margin-top: 4px; background-color: #fff; color: #016A65; font-size: 20px;" class="btn Tex efect" href="Gestao-ambiental">Tecnologia em Gestão Ambiental EaD</a>
+                        <hr style="margin-top: 0rem;margin-bottom: 1rem;border: 0;border-top: 1px solid #016A65;width: 14rem;display: table-cell;">
+                        </a>
+                    </div> -->
+
+
+
+                    <div class="cursonew gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-12 filter cat11">
+                        <a href="https://www.unifeso.edu.br/cursos/EaD/Gestao-ambiental">
+                        <img style="border-radius: 20px 20px 20px 0px;" src="./logo-graduacao_files/30a50663a95aa112a6022b663b30f4b5.png" class="img-responsive">
+                       <div style="">
+                       <h3 style="margin-top: 4px;color: #016A65; font-size: 20px;height: 30px;">
+                       Tecnologia em Gestão Ambiental EaD</h3>
+                       </div>    
+                       </a>
+            </div>
+
+                    
+                                    <!-- <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-12 filter cat11">
+                        <a href="Gestao-comercial">
+                    <img style="border-radius: 20px 20px 20px 0px;" src="../images/cursos/354b0efffce69f49d20840917278f724.png" class="img-responsive">
+                        <a style="border-radius: 0; margin-top: 4px; background-color: #fff; color: #016A65; font-size: 20px;" class="btn Tex efect" href="Gestao-comercial">Tecnologia em Gestão Comercial EaD</a>
+                        <hr style="margin-top: 0rem;margin-bottom: 1rem;border: 0;border-top: 1px solid #016A65;width: 14rem;display: table-cell;">
+                        </a>
+                    </div> -->
+
+
+
+                    <div class="cursonew gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-12 filter cat11">
+                        <a href="https://www.unifeso.edu.br/cursos/EaD/Gestao-comercial">
+                        <img style="border-radius: 20px 20px 20px 0px;" src="./logo-graduacao_files/354b0efffce69f49d20840917278f724.png" class="img-responsive">
+                       <div style="">
+                       <h3 style="margin-top: 4px;color: #016A65; font-size: 20px;height: 30px;">
+                       Tecnologia em Gestão Comercial EaD</h3>
+                       </div>    
+                       </a>
+            </div>
+
+                    
+                                    <!-- <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-12 filter cat11">
+                        <a href="gestao-financeiro">
+                    <img style="border-radius: 20px 20px 20px 0px;" src="../images/cursos/3c519d79aafbee2f73eb0bfe28451bad.png" class="img-responsive">
+                        <a style="border-radius: 0; margin-top: 4px; background-color: #fff; color: #016A65; font-size: 20px;" class="btn Tex efect" href="gestao-financeiro">Tecnologia em Gestão Financeira EaD</a>
+                        <hr style="margin-top: 0rem;margin-bottom: 1rem;border: 0;border-top: 1px solid #016A65;width: 14rem;display: table-cell;">
+                        </a>
+                    </div> -->
+
+
+
+                    <div class="cursonew gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-12 filter cat11">
+                        <a href="https://www.unifeso.edu.br/cursos/EaD/gestao-financeiro">
+                        <img style="border-radius: 20px 20px 20px 0px;" src="./logo-graduacao_files/3c519d79aafbee2f73eb0bfe28451bad.png" class="img-responsive">
+                       <div style="">
+                       <h3 style="margin-top: 4px;color: #016A65; font-size: 20px;height: 30px;">
+                       Tecnologia em Gestão Financeira EaD</h3>
+                       </div>    
+                       </a>
+            </div>
+
+                    
+                                    <!-- <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-12 filter cat11">
+                        <a href="Gestao-publica">
+                    <img style="border-radius: 20px 20px 20px 0px;" src="../images/cursos/930d7384f9e7447036b55bf48c2feaa5.png" class="img-responsive">
+                        <a style="border-radius: 0; margin-top: 4px; background-color: #fff; color: #016A65; font-size: 20px;" class="btn Tex efect" href="Gestao-publica">Tecnologia em Gestão Pública EaD</a>
+                        <hr style="margin-top: 0rem;margin-bottom: 1rem;border: 0;border-top: 1px solid #016A65;width: 14rem;display: table-cell;">
+                        </a>
+                    </div> -->
+
+
+
+                    <div class="cursonew gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-12 filter cat11">
+                        <a href="https://www.unifeso.edu.br/cursos/EaD/Gestao-publica">
+                        <img style="border-radius: 20px 20px 20px 0px;" src="./logo-graduacao_files/930d7384f9e7447036b55bf48c2feaa5.png" class="img-responsive">
+                       <div style="">
+                       <h3 style="margin-top: 4px;color: #016A65; font-size: 20px;height: 30px;">
+                       Tecnologia em Gestão Pública EaD</h3>
+                       </div>    
+                       </a>
+            </div>
+
+                    
+                                    <!-- <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-12 filter cat11">
+                        <a href="gestao-de-recursos-humanos">
+                    <img style="border-radius: 20px 20px 20px 0px;" src="../images/cursos/ac1116b06a4cd29d1444cf017311f68c.png" class="img-responsive">
+                        <a style="border-radius: 0; margin-top: 4px; background-color: #fff; color: #016A65; font-size: 20px;" class="btn Tex efect" href="gestao-de-recursos-humanos">Tecnologia em Gestão de Recursos Humanos EaD</a>
+                        <hr style="margin-top: 0rem;margin-bottom: 1rem;border: 0;border-top: 1px solid #016A65;width: 14rem;display: table-cell;">
+                        </a>
+                    </div> -->
+
+
+
+                    <div class="cursonew gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-12 filter cat11">
+                        <a href="https://www.unifeso.edu.br/cursos/EaD/gestao-de-recursos-humanos">
+                        <img style="border-radius: 20px 20px 20px 0px;" src="./logo-graduacao_files/ac1116b06a4cd29d1444cf017311f68c.png" class="img-responsive">
+                       <div style="">
+                       <h3 style="margin-top: 4px;color: #016A65; font-size: 20px;height: 30px;">
+                       Tecnologia em Gestão de Recursos Humanos EaD</h3>
+                       </div>    
+                       </a>
+            </div>
+
+                    
+                                    <!-- <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-12 filter cat11">
+                        <a href="logistica">
+                    <img style="border-radius: 20px 20px 20px 0px;" src="../images/cursos/9d4656d36a56752d7b869bbd157f8bbf.png" class="img-responsive">
+                        <a style="border-radius: 0; margin-top: 4px; background-color: #fff; color: #016A65; font-size: 20px;" class="btn Tex efect" href="logistica">Tecnologia em Logística EaD</a>
+                        <hr style="margin-top: 0rem;margin-bottom: 1rem;border: 0;border-top: 1px solid #016A65;width: 14rem;display: table-cell;">
+                        </a>
+                    </div> -->
+
+
+
+                    <div class="cursonew gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-12 filter cat11">
+                        <a href="https://www.unifeso.edu.br/cursos/EaD/logistica">
+                        <img style="border-radius: 20px 20px 20px 0px;" src="./logo-graduacao_files/9d4656d36a56752d7b869bbd157f8bbf.png" class="img-responsive">
+                       <div style="">
+                       <h3 style="margin-top: 4px;color: #016A65; font-size: 20px;height: 30px;">
+                       Tecnologia em Logística EaD</h3>
+                       </div>    
+                       </a>
+            </div>
+
+                    
+                                    <!-- <div class="gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-12 filter cat11">
+                        <a href="marketing">
+                    <img style="border-radius: 20px 20px 20px 0px;" src="../images/cursos/55ac0c431da5d34d2a96d6e2c10dd3af.png" class="img-responsive">
+                        <a style="border-radius: 0; margin-top: 4px; background-color: #fff; color: #016A65; font-size: 20px;" class="btn Tex efect" href="marketing">Tecnologia em Marketing EaD</a>
+                        <hr style="margin-top: 0rem;margin-bottom: 1rem;border: 0;border-top: 1px solid #016A65;width: 14rem;display: table-cell;">
+                        </a>
+                    </div> -->
+
+
+
+                    <div class="cursonew gallery_product col-lg-4 col-md-4 col-sm-4 col-xs-12 filter cat11">
+                        <a href="https://www.unifeso.edu.br/cursos/EaD/marketing">
+                        <img style="border-radius: 20px 20px 20px 0px;" src="./logo-graduacao_files/55ac0c431da5d34d2a96d6e2c10dd3af.png" class="img-responsive">
+                       <div style="">
+                       <h3 style="margin-top: 4px;color: #016A65; font-size: 20px;height: 30px;">
+                       Tecnologia em Marketing EaD</h3>
+                       </div>    
+                       </a>
+            </div>
+
+                    
+                
+            </div>
+        </div>
+        
+
+        <style>
+  .units-list-catalog .unit-list-container ul li a {
+    position: relative;
+    color: #fff;
+    display: flex;
+    height: 100%;
+    padding: 17px 19px;
+    justify-content: space-between;
+    text-decoration: none;}
+
+
+    .units-list-catalog .unit-list-container ul li {
+    position: relative;
+    display: inline-block;
+    background-color: #006B64;
+    /* width: calc(50% - 10px); */
+    width: 270px;
+    margin: 10px 0;
+    border-radius: 6px;
+    box-shadow: 0 3px 10px 0px rgb(0 0 0 / 10%);}
+
+    .units-list-catalog .unit-list-container ul {
+    list-style: none;
+    display: flex;
+    justify-content: space-between;
+    flex-wrap: wrap;
+    width: 100%;}
+
+    .units-list-catalog .unit-list-container {
+    position: relative;
+    display: block;
+    width: 100%;
+    height: auto;
+}
+
+.main-grid {
+    position: relative;
+    display: block;
+    width: 100%;
+    max-width: 1200px;
+    height: auto;
+    margin: 0 auto;
+    box-sizing: border-box;
+    padding: 0 25px;}
+
+
+
+    .units-list-filters {
+    padding-top: 56px;
+    padding-bottom: 23px;
+    background-color: #D2CBC0;
+}
+
+
+
+</style>
+
+        <div class="container-fluid" style="margin-bottom: 80px; margin-top: 50px">
+            <div class="col-md-12">
+
+
+                <h2 style="font-weight: bold; text-align-last: center;">Nossos Polos</h2>
+                <section class="units-list font-plus units-list-catalog">
+      <div>
+
+        <div class="units-list-catalog font-plus">
+          <div class="main-grid">
+            <div class="widget-grid">
+              <div class="unit-list-container">
+                <ul>
+                  <li><a target="_self" title="ARARUAMA/RJ" rel="noopener" data-fontsize="16px" data-lineheight="normal" style="font-size: 16px; overflow-wrap: break-word;">
+                      <div class="unit-item-infos-container">
+                        <p class="unit-title" data-fontsize="13px" data-lineheight="normal" style="font-size: 13px; overflow-wrap: break-word;"><strong>ARARUAMA/RJ</strong></p>
+                        <p data-fontsize="13px" data-lineheight="normal" style="font-size: 13px; overflow-wrap: break-word;">
+                        <i class="fa fa-map-marker unit-list-icon never-font-plus" data-fontsize="22px" data-lineheight="22px" style="line-height: 80%; top: 3%;">
+                      </i> Rua Conselheiro Macedo Soares, 165 - Centro</p>
+                        <p class="line-infos-unit-text" data-fontsize="13px" data-lineheight="normal" style="font-size: 13px; overflow-wrap: break-word;">
+                        <i class=" unit-list-exception-icon never-font-plus" data-fontsize="16px" data-lineheight="16px" style="line-height: 80%; top: 12%;">
+                      </i>Modalidade: On-line</p>
+                      </div>
+                    </a>
+                  </li>
+                  <li><a target="_self" title="DUQUE DE CAXIAS/RJ" rel="noopener" data-fontsize="16px" data-lineheight="normal" style="font-size: 16px; overflow-wrap: break-word;">
+                      <div class="unit-item-infos-container">
+                        <p class="unit-title" data-fontsize="13px" data-lineheight="normal" style="font-size: 13px; overflow-wrap: break-word;"><strong>DUQUE DE CAXIAS/RJ</strong></p>
+                        <p data-fontsize="13px" data-lineheight="normal" style="font-size: 13px; overflow-wrap: break-word;">
+                        <i class="fa fa-map-marker unit-list-icon never-font-plus" data-fontsize="22px" data-lineheight="22px" style="line-height: 80%; top: 3%;">
+                      </i> Av. Dr. Manoel Teles, 1075 - Centro</p>
+                        <p class="line-infos-unit-text" data-fontsize="13px" data-lineheight="normal" style="font-size: 13px; overflow-wrap: break-word;">
+                        <i class=" unit-list-exception-icon never-font-plus" data-fontsize="16px" data-lineheight="16px" style="line-height: 80%; top: 12%;">
+                      </i>Modalidade: On-line</p>
+                      </div>
+                    </a>
+                  </li>
+                  <li><a target="_self" title="CORDEIRO/RJ" rel="noopener" data-fontsize="16px" data-lineheight="normal" style="font-size: 16px; overflow-wrap: break-word;">
+                      <div class="unit-item-infos-container">
+                        <p class="unit-title" data-fontsize="13px" data-lineheight="normal" style="font-size: 13px; overflow-wrap: break-word;"><strong>CORDEIRO/RJ</strong></p>
+                        <p data-fontsize="13px" data-lineheight="normal" style="font-size: 13px; overflow-wrap: break-word;">
+                        <i class="fa fa-map-marker unit-list-icon never-font-plus" data-fontsize="22px" data-lineheight="22px" style="line-height: 80%; top: 3%;">
+                      </i> Rua João de Freitas Farinha, 62 - Parada Santo Expedito</p>
+                        <p class="line-infos-unit-text" data-fontsize="13px" data-lineheight="normal" style="font-size: 13px; overflow-wrap: break-word;">
+                        <i class=" unit-list-exception-icon never-font-plus" data-fontsize="16px" data-lineheight="16px" style="line-height: 80%; top: 12%;">
+                      </i>Modalidade: On-line</p>
+                      </div>
+                    </a>
+                  </li>
+                  <li><a target="_self" title="GUAPIMIRIM/RJ" rel="noopener" data-fontsize="16px" data-lineheight="normal" style="font-size: 16px; overflow-wrap: break-word;">
+                      <div class="unit-item-infos-container">
+                        <p class="unit-title" data-fontsize="13px" data-lineheight="normal" style="font-size: 13px; overflow-wrap: break-word;"><strong>GUAPIMIRIM/RJ</strong></p>
+                        <p data-fontsize="13px" data-lineheight="normal" style="font-size: 13px; overflow-wrap: break-word;">
+                        <i class="fa fa-map-marker unit-list-icon never-font-plus" data-fontsize="22px" data-lineheight="22px" style="line-height: 80%; top: 3%;">
+                      </i> Av. Dedo de Deus, 1241 - Centro</p>
+                        <p class="line-infos-unit-text" data-fontsize="13px" data-lineheight="normal" style="font-size: 13px; overflow-wrap: break-word;">
+                        <i class=" unit-list-exception-icon never-font-plus" data-fontsize="16px" data-lineheight="16px" style="line-height: 80%; top: 12%;">
+                      </i>Modalidade: On-line</p>
+                      </div>
+                    </a>
+                  </li>
+                  <li><a target="_self" title="MACAÉ/RJ" rel="noopener" data-fontsize="16px" data-lineheight="normal" style="font-size: 16px; overflow-wrap: break-word;">
+                      <div class="unit-item-infos-container">
+                        <p class="unit-title" data-fontsize="13px" data-lineheight="normal" style="font-size: 13px; overflow-wrap: break-word;"><strong>MACAÉ/RJ</strong></p>
+                        <p data-fontsize="13px" data-lineheight="normal" style="font-size: 13px; overflow-wrap: break-word;">
+                        <i class="fa fa-map-marker unit-list-icon never-font-plus" data-fontsize="22px" data-lineheight="22px" style="line-height: 80%; top: 3%;">
+                      </i> Alameda Etelvino Gomes, 580 - Riviera Fluminense</p>
+                        <p class="line-infos-unit-text" data-fontsize="13px" data-lineheight="normal" style="font-size: 13px; overflow-wrap: break-word;">
+                        <i class=" unit-list-exception-icon never-font-plus" data-fontsize="16px" data-lineheight="16px" style="line-height: 80%; top: 12%;">
+                      </i>Modalidade: On-line</p>
+                      </div>
+                    </a>
+                  </li>
+                  <li><a target="_self" title="MAGÉ/RJ" rel="noopener" data-fontsize="16px" data-lineheight="normal" style="font-size: 16px; overflow-wrap: break-word;">
+                      <div class="unit-item-infos-container">
+                        <p class="unit-title" data-fontsize="13px" data-lineheight="normal" style="font-size: 13px; overflow-wrap: break-word;"><strong>MAGÉ/RJ</strong></p>
+                        <p data-fontsize="13px" data-lineheight="normal" style="font-size: 13px; overflow-wrap: break-word;">
+                        <i class="fa fa-map-marker unit-list-icon never-font-plus" data-fontsize="22px" data-lineheight="22px" style="line-height: 80%; top: 3%;">
+                      </i> Rua Doutor Domingos Belizze, 236 - Centro (Loja térrea e 1º pavimento)</p>
+                        <p class="line-infos-unit-text" data-fontsize="13px" data-lineheight="normal" style="font-size: 13px; overflow-wrap: break-word;">
+                        <i class="unit-list-exception-icon never-font-plus" data-fontsize="16px" data-lineheight="16px" style="line-height: 80%; top: 12%;">
+                      </i>Modalidades: On-line | Híbrido</p>
+                      </div>
+                    </a>
+                  </li>
+                  <li><a target="_self" title="MARICÁ/RJ" rel="noopener" data-fontsize="16px" data-lineheight="normal" style="font-size: 16px; overflow-wrap: break-word;">
+                      <div class="unit-item-infos-container">
+                        <p class="unit-title" data-fontsize="13px" data-lineheight="normal" style="font-size: 13px; overflow-wrap: break-word;"><strong>MARICÁ/RJ</strong></p>
+                        <p data-fontsize="13px" data-lineheight="normal" style="font-size: 13px; overflow-wrap: break-word;">
+                        <i class="fa fa-map-marker unit-list-icon never-font-plus" data-fontsize="22px" data-lineheight="22px" style="line-height: 80%; top: 3%;">
+                      </i> Rua Antonio Vieira Sobrinho, 225, Lojas 01 e 02, quadra K, lote 40 - Centro</p>
+                        <p class="line-infos-unit-text" data-fontsize="13px" data-lineheight="normal" style="font-size: 13px; overflow-wrap: break-word;">
+                        <i class="unit-list-exception-icon never-font-plus" data-fontsize="16px" data-lineheight="16px" style="line-height: 80%; top: 12%;">
+                      </i>Modalidade: On-line</p>
+                      </div>
+                    </a>
+                  </li>
+                  <li><a target="_self" title="NOVA FRIBURGO/RJ" rel="noopener" data-fontsize="16px" data-lineheight="normal" style="font-size: 16px; overflow-wrap: break-word;">
+                      <div class="unit-item-infos-container">
+                        <p class="unit-title" data-fontsize="13px" data-lineheight="normal" style="font-size: 13px; overflow-wrap: break-word;"><strong>NOVA FRIBURGO/RJ</strong></p>
+                        <p data-fontsize="13px" data-lineheight="normal" style="font-size: 13px; overflow-wrap: break-word;">
+                        <i class="fa fa-map-marker unit-list-icon never-font-plus" data-fontsize="22px" data-lineheight="22px" style="line-height: 80%; top: 3%;">
+                      </i> Rua General Osório, 181 - Centro</p>
+                        <p class="line-infos-unit-text" data-fontsize="13px" data-lineheight="normal" style="font-size: 13px; overflow-wrap: break-word;">
+                        <i class="unit-list-exception-icon never-font-plus" data-fontsize="16px" data-lineheight="16px" style="line-height: 80%; top: 12%;">
+                      </i>Modalidade: On-line</p>
+                      </div>
+                    </a>
+                  </li>
+                  <li><a target="_self" title="RIO DAS OSTRAS/RJ" rel="noopener" data-fontsize="16px" data-lineheight="normal" style="font-size: 16px; overflow-wrap: break-word;">
+                      <div class="unit-item-infos-container">
+                        <p class="unit-title" data-fontsize="13px" data-lineheight="normal" style="font-size: 13px; overflow-wrap: break-word;"><strong>RIO DAS OSTRAS/RJ</strong></p>
+                        <p data-fontsize="13px" data-lineheight="normal" style="font-size: 13px; overflow-wrap: break-word;">
+                        <i class="fa fa-map-marker unit-list-icon never-font-plus" data-fontsize="22px" data-lineheight="22px" style="line-height: 80%; top: 3%;">
+                      </i> Avenida Cidade de Campos, s/n°, Quadra 073, Lote 006 - Jardim Mariléa</p>
+                        <p class="line-infos-unit-text" data-fontsize="13px" data-lineheight="normal" style="font-size: 13px; overflow-wrap: break-word;">
+                        <i class="unit-list-exception-icon never-font-plus" data-fontsize="16px" data-lineheight="16px" style="line-height: 80%; top: 12%;">
+                      </i>Modalidade: On-line</p>
+                      </div>
+                    </a>
+                  </li>
+                  <li><a target="_self" title="SAQUAREMA/RJ" rel="noopener" data-fontsize="16px" data-lineheight="normal" style="font-size: 16px; overflow-wrap: break-word;">
+                      <div class="unit-item-infos-container">
+                        <p class="unit-title" data-fontsize="13px" data-lineheight="normal" style="font-size: 13px; overflow-wrap: break-word;"><strong>SAQUAREMA/RJ</strong></p>
+                        <p data-fontsize="13px" data-lineheight="normal" style="font-size: 13px; overflow-wrap: break-word;">
+                        <i class="fa fa-map-marker unit-list-icon never-font-plus" data-fontsize="22px" data-lineheight="22px" style="line-height: 80%; top: 3%;">
+                      </i> Rua Beatriz Amaral, 106 - Bacaxá</p>
+                        <p class="line-infos-unit-text" data-fontsize="13px" data-lineheight="normal" style="font-size: 13px; overflow-wrap: break-word;">
+                        <i class="unit-list-exception-icon never-font-plus" data-fontsize="16px" data-lineheight="16px" style="line-height: 80%; top: 12%;">
+                      </i>Modalidades: On-line | Híbrido</p>
+                      </div>
+                    </a>
+                  </li>
+                  <li><a target="_self" title="SÃO GONÇALO/RJ" rel="noopener" data-fontsize="16px" data-lineheight="normal" style="font-size: 16px; overflow-wrap: break-word;">
+                      <div class="unit-item-infos-container">
+                        <p class="unit-title" data-fontsize="13px" data-lineheight="normal" style="font-size: 13px; overflow-wrap: break-word;"><strong>SÃO GONÇALO/RJ</strong></p>
+                        <p data-fontsize="13px" data-lineheight="normal" style="font-size: 13px; overflow-wrap: break-word;">
+                        <i class="fa fa-map-marker unit-list-icon never-font-plus" data-fontsize="22px" data-lineheight="22px" style="line-height: 80%; top: 3%;">
+                      </i> Rua Comandante Ari Parreiras, 2450 - Paraiso</p>
+                        <p class="line-infos-unit-text" data-fontsize="13px" data-lineheight="normal" style="font-size: 13px; overflow-wrap: break-word;">
+                        <i class="unit-list-exception-icon never-font-plus" data-fontsize="16px" data-lineheight="16px" style="line-height: 80%; top: 12%;">
+                      </i>Modalidade: On-line</p>
+                      </div>
+                    </a>
+                  </li>
+                  <li><a target="_self" title="TERESÓPOLIS/RJ" rel="noopener" data-fontsize="16px" data-lineheight="normal" style="font-size: 16px; overflow-wrap: break-word;">
+                      <div class="unit-item-infos-container">
+                        <p class="unit-title" data-fontsize="13px" data-lineheight="normal" style="font-size: 13px; overflow-wrap: break-word;"><strong>TERESÓPOLIS/RJ</strong></p>
+                        <p data-fontsize="13px" data-lineheight="normal" style="font-size: 13px; overflow-wrap: break-word;">
+                        <i class="fa fa-map-marker unit-list-icon never-font-plus" data-fontsize="22px" data-lineheight="22px" style="line-height: 80%; top: 3%;">
+                      </i> Avenida Alberto Torres, 111 - Alto</p>
+                        <p class="line-infos-unit-text" data-fontsize="13px" data-lineheight="normal" style="font-size: 13px; overflow-wrap: break-word;">
+                        <i class=" unit-list-exception-icon never-font-plus" data-fontsize="16px" data-lineheight="16px" style="line-height: 80%; top: 12%;">
+                      </i>Modalidades: On-line | Híbrido</p>
+                      </div>
+                    </a>
+                  </li>
+                  <!-- <li><a target="_self" title="TRÊS RIOS/RJ" rel="noopener" data-fontsize="16px" data-lineheight="normal"  style="font-size: 16px; overflow-wrap: break-word;">
+                      <div class="unit-item-infos-container">
+                        <p class="unit-title" data-fontsize="13px" data-lineheight="normal" style="font-size: 13px; overflow-wrap: break-word;"><strong>TRÊS RIOS/RJ</strong></p>
+                        <p data-fontsize="13px" data-lineheight="normal" style="font-size: 13px; overflow-wrap: break-word;">
+                        <i class="fa fa-map-marker unit-list-icon never-font-plus" data-fontsize="22px" data-lineheight="22px" style="line-height: 80%; top: 3%;">
+                      </i> Rua Marechal Deodoro da Fonseca, 326, Centro</p>
+                        <p class="line-infos-unit-text" data-fontsize="13px" data-lineheight="normal" style="font-size: 13px; overflow-wrap: break-word;">
+                        <i class=" unit-list-exception-icon never-font-plus" data-fontsize="16px" data-lineheight="16px" style="line-height: 80%; top: 12%;">
+                      </i>Modalidade: On-line</p>
+                      </div>
+                    </a>
+                  </li> -->
+                </ul>
+              </div>
+            </div>
+          </div>
+        </div>
+      </div>
+    </section>
+
+            </div>
+        </div>
+
+        <div class="container-fluid" style="margin-bottom: 80px; margin-top: 50px">
+	 <div class="col-md-12"><center>	 
+
+	 <a href="https://www.unifeso.edu.br/faq.php" class="quadrado center animated-button thar-one" style="height: auto; border-radius:10px ">
+	 
+	 <h1 class="quadrado-hs1 " style="font-family: GOTHAM-MEDIUM; font-size: 25px; padding-bottom: 6px !important">Perguntas Frequentes</h1>
+
+	 </a>
+	 
+	 </center>
+
+</div>
+</div>
+    </div>
+
+
+    <a href="https://www.unifeso.edu.br/cursos/EaD/#top" class="fa fa-angle-up" style="color: rgb(114, 114, 114); display: none;"></a>
+    <script src="./logo-graduacao_files/custom.js(1).download"></script>
+
+﻿
+
+
+   <script>
+    $(".popup-btn").click(function (e) {
+  e.preventDefault();
+  var linkID = this.hash.replace("#", "");
+  $(".modal").each(function () {
+    var modalID = $(this).attr("id");
+    if (linkID === modalID) {
+      $(this).fadeIn(200);
+      $("body, html").addClass("modal-open");
+      $(".modal-backdrop").addClass("in");
+      $(this).addClass("in");
+    } else {
+      $(this).fadeOut();
+      $(this).removeClass("in");
+    }
+  });
+});
+$("body, button.close, .modal-footer button.btn").click(function () {
+  $("body, html").removeClass("modal-open");
+  $(".modal-backdrop").removeClass("in");
+  $(".modal").fadeOut();
+  $(".modal").removeClass("in");
+});
+$(".modal-content, .popup-btn, .modal-header .close, .modal-footer .btn").click(
+  function (e) {
+    e.stopPropagation();
+  }
+);
+
+   </script>
+
+<!-- PUXANDO CSS DO FOTTER -->
+<link rel="stylesheet" href="./logo-graduacao_files/estilo-footer.css">
+
+<footer class="nb-footer" style="margin-top: -20px;">
+<div class="container-fluid" style="width: 100%; ">
+<div class="row">
+<div class="col-md-12">
+<div class="about">
+	<img src="./logo-graduacao_files/UNIFESO-BRANCO.png" class="img-responsive center-block" alt="" style="width: 255px; padding-top: 40px !important">
+	
+<br>
+	<div class="social-media">
+		<ul class="list-inline">
+			<li><a href="https://www.facebook.com/feso.unifeso" target="_blank" title=""><i class="fa fa-facebook"></i></a></li>
+			<!--<li><a href="#" title=""><i class="fa fa-twitter"></i></a></li>
+			<li><a href="#" title=""><i class="fa fa-google-plus"></i></a></li>
+			<li><a href="#" title=""><i class="fa fa-instagram"></i></a></li>
+			<li><a href="#" title=""><i class="fa fa-linkedin"></i></a></li>-->
+			
+             <li><a title="" href="https://www.instagram.com/feso.unifeso/" target="_blank"><i class="fa fa-instagram"></i></a></li>
+			<li><a href="https://www.youtube.com/channel/UCqJHUIHPOB0SkdgiVExdSjw/featured" target="_blank" title=""><i class="fa fa-youtube"></i></a></li>
+		</ul>
+	</div>
+</div>
+</div>
+
+<div id="footer" class="col-md-2 col-sm-6 col-xs-12">
+<div class="footer-info-single">
+	<h2 class="title gb">INSTITUCIONAL</h2>
+	<ul class="list-unstyled">
+		<li><a href="https://www.unifeso.edu.br/sobre-feso.php" title=""><i class="fa fa-angle-double-right"></i> A Feso</a></li>
+		<li><a href="https://www.unifeso.edu.br/sobre-unifeso.php" title=""><i class="fa fa-angle-double-right"></i> O Unifeso</a></li>
+		<li><a href="https://www.unifeso.edu.br/ceso" title="" target="_blank"><i class="fa fa-angle-double-right"></i> O Ceso</a></li>
+		<li><a href="https://www.unifeso.edu.br/estrutura.php"><i class="fa fa-angle-double-right"></i> Infraestrutura</a></li>
+		 <li><a href="https://www.unifeso.edu.br/direcao/dacs"><i class="fa fa-angle-double-right"></i> Direção Acadêmica <br>das Ciências da Saúde</a></li>
+         <li><a href="https://www.unifeso.edu.br/direcao/dacht"><i class="fa fa-angle-double-right"></i> Direção Acadêmica das Ciências Humanas e Tecnológicas</a></li>
+         <!-- <li><a href="https://www.unifeso.edu.br/centros/cct" ><i class="fa fa-angle-double-right"></i> Centro de Ciências e Tecnologia</a></li> -->
+		<li><a href="https://www.unifeso.edu.br/cpa.php" title=""><i class="fa fa-angle-double-right"></i> CPA</a></li>
+		<li><a href="https://www.unifeso.edu.br/biblioteca.php" title=""><i class="fa fa-angle-double-right"></i> Biblioteca</a></li>
+		<li><a href="https://www.unifeso.edu.br/noticias.php" title=""><i class="fa fa-angle-double-right"></i> Notícias</a></li>
+		<!--<li><a href="http://www.unifeso.edu.br/instituicao/documentos/regimegeralunifeso.pdf" title=""><i class="fa fa-angle-double-right"></i> Regimento geral</a></li>-->
+		<li><a href="http://www.unifeso.edu.br/instituicao/documentos/ppi2.pdf" title=""><i class="fa fa-angle-double-right"></i> Projeto pedagógico</a></li>
+		<!--<li><a href="http://www.unifeso.edu.br/instituicao/documentos/relatorio_atividades_2018_completo.pdf" target="_blank" title=""><i class="fa fa-angle-double-right"></i> Relatório de atividades</a></li>-->
+		<li><a href="https://www.unifeso.edu.br/uploads/f8a684d1a3a881be3c026f1eecc367c1.pdf" target="_blank" title=""><i class="fa fa-angle-double-right"></i> Relatório de atividades</a></li>
+		<li><a href="https://www.unifeso.edu.br/r-humanos.php" title=""><i class="fa fa-angle-double-right"></i> Trabalhe conosco</a></li>
+		<li><a href="https://www.unifeso.edu.br/secretaria.php" title=""><i class="fa fa-angle-double-right"></i> Secretaria geral</a></li>
+		<li><a href="https://www.unifeso.edu.br/portal_de_privacidade.php" title=""><i class="fa fa-angle-double-right"></i> Portal de Privacidade</a></li>
+		<li><a href="https://www.unifeso.edu.br/transparencia.php" title=""><i class="fa fa-angle-double-right"></i> Portal da Transparência</a></li>
+	</ul>
+</div>
+</div>
+
+
+
+<div id="footer2" class="col-md-2 col-sm-6 col-xs-12">
+<div class="footer-info-single">
+	<h2 class="title gb">PESQUISA &amp; EXTENSÃO</h2>
+	<ul class="list-unstyled">
+		<li><a href="https://www.unifeso.edu.br/editora" target="_BLANK" title=""><i class="fa fa-angle-double-right"></i> Editora</a></li>
+		<li><a href="https://www.unifeso.edu.br/pesquisa/interno.php?c=26" title=""><i class="fa fa-angle-double-right"></i> PICPq</a></li>
+		<li><a href="https://www.unifeso.edu.br/pesquisa/interno.php?c=27" title=""><i class="fa fa-angle-double-right"></i> PIBIC &amp; PIBITI (CNPq)</a></li>
+		<li><a href="https://www.unifeso.edu.br/pesquisa/interno.php?c=28" title=""><i class="fa fa-angle-double-right"></i> FAPERJ</a></li>
+		<li><a href="https://www.unifeso.edu.br/pesquisa/interno.php?c=29" title=""><i class="fa fa-angle-double-right"></i> PIBID (CAPES) </a></li>
+		<li><a href="https://www.unifeso.edu.br/uploads/526be1b53755a5681175baf7f0ab284f.pdf" title="" target="_blank"><i class="fa fa-angle-double-right" target="_BLANK"></i> CONFESO</a></li>
+		<li><a href="https://www.unifeso.edu.br/pesquisa/interno.php?c=36" title=""><i class="fa fa-angle-double-right"></i> CEP</a></li>
+		<li><a href="https://www.unifeso.edu.br/pesquisa/interno.php?c=31" title=""><i class="fa fa-angle-double-right"></i> CEUA</a></li>
+		<li><a href="https://www.unifeso.edu.br/pesquisa/interno.php?c=21" title=""><i class="fa fa-angle-double-right"></i> PIEx</a></li>
+		<li><a href="https://www.unifeso.edu.br/cursos/extensao/" title=""><i class="fa fa-angle-double-right"></i> Cursos de extensão</a></li>
+				<!--<li><a href="#" title=""><i class="fa fa-angle-double-right"></i> Eventos acadêmicos</a></li>-->
+		<li><a href="https://www.unifeso.edu.br/cultural" title=""><i class="fa fa-angle-double-right"></i> Centro Cultural</a></li>
+	</ul>
+	
+</div>
+</div>
+<div class="col-md-2 col-sm-6 col-xs-12" style="padding-left:3,2%">
+<div class="footer-info-single">
+	<h2 class="title gb">GRADUAÇÃO PRESENCIAL</h2>
+	<ul class="list-unstyled">
+		<li><a href="https://www.unifeso.edu.br/cursos/graduacao/administracao" title=""><i class="fa fa-angle-double-right"></i> Administração</a></li>
+        <li><a href="https://www.unifeso.edu.br/cursos/graduacao/arquitetura_urbanismo" title=""><i class="fa fa-angle-double-right"></i> Arquitetura e Urbanismo</a></li>
+		<li><a href="https://www.unifeso.edu.br/cursos/graduacao/ciencia-da-computacao" title=""><i class="fa fa-angle-double-right"></i> Ciência da Computação</a></li>
+		<!-- <li><a href="https://www.unifeso.edu.br/cursos/graduacao/ciencias-biologicas-bacharelado" title=""><i class="fa fa-angle-double-right"></i> Ciências Biológicas Bacharelado</a></li>
+		<li><a href="https://www.unifeso.edu.br/cursos/graduacao/ciencias-biologicas-licenciatura" title=""><i class="fa fa-angle-double-right"></i> Ciências Biológicas Licenciatura</a></li> -->
+		<li><a href="https://www.unifeso.edu.br/cursos/graduacao/ciencia-contabeis" title=""><i class="fa fa-angle-double-right"></i> Ciências Contábeis</a></li>
+		<li><a href="https://www.unifeso.edu.br/cursos/graduacao/direito" title=""><i class="fa fa-angle-double-right"></i> Direito</a></li>
+		<li><a href="https://www.unifeso.edu.br/cursos/graduacao/enfermagem" title=""><i class="fa fa-angle-double-right"></i> Enfermagem</a></li>
+		<!-- <li><a href="https://www.unifeso.edu.br/cursos/graduacao/engenharia-ambiental" title=""><i class="fa fa-angle-double-right"></i> Engenharia Ambiental e Sanitária</a></li> -->
+		<li><a href="https://www.unifeso.edu.br/cursos/graduacao/engenharia-civil" title=""><i class="fa fa-angle-double-right"></i> Engenharia Civil</a></li>
+		<!-- <li><a href="https://www.unifeso.edu.br/cursos/graduacao/engenharia-de-producao" title=""><i class="fa fa-angle-double-right"></i> Engenharia de Produção</a></li> -->
+		<li><a href="https://www.unifeso.edu.br/cursos/graduacao/farmacia" title=""><i class="fa fa-angle-double-right"></i> Farmácia</a></li>
+		<li><a href="https://www.unifeso.edu.br/cursos/graduacao/fisioterapia" title=""><i class="fa fa-angle-double-right"></i> Fisioterapia</a></li>
+		<li><a href="https://www.unifeso.edu.br/cursos/graduacao/medicina" title=""><i class="fa fa-angle-double-right"></i> Medicina</a></li>
+		<li><a href="https://www.unifeso.edu.br/cursos/graduacao/medicina-veterinaria" title=""><i class="fa fa-angle-double-right"></i> Medicina Veterinária</a></li>
+		<li><a href="https://www.unifeso.edu.br/cursos/graduacao/nutricao" title=""><i class="fa fa-angle-double-right"></i> Nutrição</a></li>
+		<li><a href="https://www.unifeso.edu.br/cursos/graduacao/odontologia" title=""><i class="fa fa-angle-double-right"></i> Odontologia</a></li>
+        <li><a href="https://www.unifeso.edu.br/cursos/graduacao/psicologia" title=""><i class="fa fa-angle-double-right"></i> Psicologia</a></li>
+		<li><a href="https://www.unifeso.edu.br/cursos/graduacao/biomedicina" title=""><i class="fa fa-angle-double-right"></i> Biomedicina</a></li>
+		<!--<li><a href="https://www.unifeso.edu.br/cursos/graduacao/fisioterapia" title=""><i class="fa fa-angle-double-right"></i> Fisioterapia</a></li>
+		<li><a href="https://www.unifeso.edu.br/cursos/graduacao/medicina" title=""><i class="fa fa-angle-double-right"></i> Medicina</a></li>
+		<li><a href="https://www.unifeso.edu.br/cursos/graduacao/medicina-veterinaria" title=""><i class="fa fa-angle-double-right"></i> Medicina Veterinária</a></li>
+		<li><a href="https://www.unifeso.edu.br/cursos/graduacao/odontologia" title=""><i class="fa fa-angle-double-right"></i> Odontologia</a></li>
+		<li><a href="https://www.unifeso.edu.br/cursos/graduacao/pedagogia" title=""><i class="fa fa-angle-double-right"></i> Pedagogia</a></li>-->
+		
+	</ul>
+	<!--<h2 class="title gb">GRADUAÇÃO ONLINE</h2>
+	<ul class="list-unstyled">
+		<li><a href="https://www.unifeso.edu.br/cursos/graduacao/gestao-de-processos-gerenciais" title=""><i class="fa fa-angle-double-right"></i> Gestão de Processos Gerenciais</a></li><li><a href="https://www.unifeso.edu.br/cursos/graduacao/gestao-de-recursos-humanos" title=""><i class="fa fa-angle-double-right"></i> Gestão de RH</a></li>
+		<li><a href="https://www.unifeso.edu.br/cursos/graduacao/gestao-hospitalar" title=""><i class="fa fa-angle-double-right"></i> Gestão Hospitalar</a></li>
+		<li><a href="https://www.unifeso.edu.br/cursos/graduacao/marketing" title=""><i class="fa fa-angle-double-right"></i> Marketing</a></li>
+
+	</ul>-->
+</div>
+</div>
+<div class="col-md-2 col-sm-6 col-xs-12" style="padding-left:3,2%">
+<div class="footer-info-single">
+	<h2 class="title gb">GRADUAÇÃO EaD</h2>
+	<ul class="list-unstyled">
+		<li><a href="https://www.unifeso.edu.br/cursos/EaD/administracao-ead" title=""><i class="fa fa-angle-double-right"></i> Administração EaD</a></li>
+        <li><a href="https://www.unifeso.edu.br/cursos/EaD/biomedicina-ead" title=""><i class="fa fa-angle-double-right"></i> Biomedicina EaD</a></li>
+		<li><a href="https://www.unifeso.edu.br/cursos/EaD/ciencia-contabeis-ead" title=""><i class="fa fa-angle-double-right"></i> Ciências Contábeis EaD</a></li>
+		<li><a href="https://www.unifeso.edu.br/cursos/EaD/ed-fisica-bacharelado" title=""><i class="fa fa-angle-double-right"></i> Educação Física - Bacharelado EaD</a></li>
+		<li><a href="https://www.unifeso.edu.br/cursos/EaD/ed-fisica-licenciatura" title=""><i class="fa fa-angle-double-right"></i> Educação Física - Licenciatura EaD</a></li>
+		<li><a href="https://www.unifeso.edu.br/cursos/EaD/farmacia-ead" title=""><i class="fa fa-angle-double-right"></i> Farmácia EaD</a></li>
+		<li><a href="https://www.unifeso.edu.br/cursos/EaD/nutricao-ead" title=""><i class="fa fa-angle-double-right"></i> Nutrição EaD</a></li>
+		<li><a href="https://www.unifeso.edu.br/cursos/EaD/pedagogia" title=""><i class="fa fa-angle-double-right"></i> Pedagogia EaD</a></li>
+		<li><a href="https://www.unifeso.edu.br/cursos/EaD/ads" title=""><i class="fa fa-angle-double-right"></i> Tecnologia em Análise e Desenvolvimento de Sistemas EaD</a></li>
+		<li><a href="https://www.unifeso.edu.br/cursos/EaD/Gestao-ambiental" title=""><i class="fa fa-angle-double-right"></i> Tecnologia em Gestão Ambiental EaD</a></li>
+		<li><a href="https://www.unifeso.edu.br/cursos/EaD/Gestao-comercial" title=""><i class="fa fa-angle-double-right"></i> Tecnologia em Gestão Comercial EaD</a></li>
+		<li><a href="https://www.unifeso.edu.br/cursos/EaD/gestao-financeiro" title=""><i class="fa fa-angle-double-right"></i> Tecnologia em Gestão Financeira EaD</a></li>
+		<li><a href="https://www.unifeso.edu.br/cursos/EaD/Gestao-publica" title=""><i class="fa fa-angle-double-right"></i> Tecnologia em Gestão Pública EaD</a></li>
+		<li><a href="https://www.unifeso.edu.br/cursos/EaD/gestao-de-recursos-humanos" title=""><i class="fa fa-angle-double-right"></i> Tecnologia em Gestão de Recursos Humanos EaD</a></li>
+		<li><a href="https://www.unifeso.edu.br/cursos/EaD/logistica" title=""><i class="fa fa-angle-double-right"></i> Tecnologia em Logística EaD</a></li>
+		<li><a href="https://www.unifeso.edu.br/cursos/EaD/marketing" title=""><i class="fa fa-angle-double-right"></i> Tecnologia em Marketing EaD</a></li>
+		
+	</ul>
+	<!--<h2 class="title gb">GRADUAÇÃO ONLINE</h2>
+	<ul class="list-unstyled">
+		<li><a href="https://www.unifeso.edu.br/cursos/graduacao/gestao-de-processos-gerenciais" title=""><i class="fa fa-angle-double-right"></i> Gestão de Processos Gerenciais</a></li><li><a href="https://www.unifeso.edu.br/cursos/graduacao/gestao-de-recursos-humanos" title=""><i class="fa fa-angle-double-right"></i> Gestão de RH</a></li>
+		<li><a href="https://www.unifeso.edu.br/cursos/graduacao/gestao-hospitalar" title=""><i class="fa fa-angle-double-right"></i> Gestão Hospitalar</a></li>
+		<li><a href="https://www.unifeso.edu.br/cursos/graduacao/marketing" title=""><i class="fa fa-angle-double-right"></i> Marketing</a></li>
+
+	</ul>-->
+</div>
+</div>
+<div class="col-md-2 col-sm-6 col-xs-12" style="padding-left:2,5%">
+<div class="footer-info-single">
+	<h2 class="title gb">PÓS-GRADUAÇÃO PRESENCIAL</h2>
+	<ul class="list-unstyled">
+		<li><a href="https://www.unifeso.edu.br/cursos/pos/cirurgia-e-traumatologia-bucomaxilofaciais" title=""><i class="fa fa-angle-double-right"></i> Cirurgia e Traumatologia Bucomaxilofaciais</a></li>
+		<li><a href="https://www.unifeso.edu.br/cursos/pos/enfermagem-em-emergencia-e-alta-complexidade-(CTI)" title=""><i class="fa fa-angle-double-right"></i> Enfermagem em Emergência e Alta Complexidade (CTI)</a></li>
+		<li><a href="https://www.unifeso.edu.br/cursos/pos/gestao-da-saude-e-tecnologias-das-analises-clinicas-e-pesquisa" title=""><i class="fa fa-angle-double-right"></i> Gestão da Saúde e Tecnologias das Análises Clínicas e Pesquisa</a></li>
+		<li><a href="https://www.unifeso.edu.br/cursos/pos/ortodontia-straight-wire-(MBT)" title=""><i class="fa fa-angle-double-right"></i> Ortodontia - Straight Wire (MBT)</a></li>
+		<li><a href="https://www.unifeso.edu.br/cursos/pos/pericia-ambiental-judicial-e-auditorias" title=""><i class="fa fa-angle-double-right"></i> Perícia Ambiental, Judicial e Auditorias</a></li>
+		<li><a href="https://www.unifeso.edu.br/cursos/pos/terapia-manual-e-biomecanica-clinica" title=""><i class="fa fa-angle-double-right"></i> Terapia Manual e Biomecânica Clínica</a></li>
+		<li><a href="https://www.unifeso.edu.br/cursos/pos/enfermagem-do-trabalho" title=""><i class="fa fa-angle-double-right"></i> Enfermagem do Trabalho</a></li>
+		<!--<li><a href="https://www.unifeso.edu.br/cursos/graduacao/ciencias-biologicas-licenciatura" title=""><i class="fa fa-angle-double-right"></i> Ciências Biológicas Licen</a></li>
+		<li><a href="https://www.unifeso.edu.br/cursos/graduacao/ciencia-contabeis" title=""><i class="fa fa-angle-double-right"></i> Ciências Contábeis</a></li>
+		<li><a href="https://www.unifeso.edu.br/cursos/graduacao/direito" title=""><i class="fa fa-angle-double-right"></i> Direito</a></li>-->
+	</ul>
+	
+	
+	<!--<h2 class="title gb">PÓS-GRADUAÇÃO ONLINE</h2>
+	<ul class="list-unstyled">
+		<li><a href="http://portalead.unifeso.edu.br/detalhe_curso.php?id=3&j=3" title=""><i class="fa fa-angle-double-right"></i> Gestão de Projetos</a></li>
+		<li><a href="http://portalead.unifeso.edu.br/detalhe_curso.php?id=8&j=8" title=""><i class="fa fa-angle-double-right"></i> Gestão em Saúde</a></li>
+		<li><a href="http://portalead.unifeso.edu.br/detalhe_curso.php?id=5&j=5" title=""><i class="fa fa-angle-double-right"></i> Gestão da Informação com BI</a></li>
+		<li><a href="http://portalead.unifeso.edu.br/detalhe_curso.php?id=4&j=4" title=""><i class="fa fa-angle-double-right"></i> TI em Educação</a></li>
+	</ul>-->
+
+	<h2 class="title">NOSSAS UNIDADES</h2>
+	<p><i class="fa fa-angle-double-right"></i> <b class="GM"><a href="https://www.unifeso.edu.br/detalhe-estrutura.php?campus=1" style="text-decoration:underline;">Campus Antonio Paulo Capanema de Souza</a></b><br>
+Av. Alberto Torres, 111 - Alto - Teresópolis</p>
+
+	<p><i class="fa fa-angle-double-right"></i> <b class="GM"><a href="https://www.unifeso.edu.br/detalhe-estrutura.php?campus=2" style="text-decoration:underline;">Campus Quinta do Paraíso</a></b><br>
+Estrada Wenceslau José de Medeiros, 1045 - Prata - CEP:25.976.345</p>
+
+	<p><i class="fa fa-angle-double-right"></i> <b class="GM"><a href="https://www.unifeso.edu.br/detalhe-estrutura.php?campus=3" style="text-decoration:underline;">Campus FESO Pro Arte</a></b><br>
+Rua Gonçalo de Castro, 85 - Alto - Teresópolis</p>
+	
+		
+		</div>
+</div>
+
+<div id="footer_dir" class="col-md-2 col-sm-6 col-xs-12" style="padding-left:2%">
+<div class="footer-info-single">
+		
+<p><a href="https://www.unifeso.edu.br/cursos/EaD/ceso/index.php" title=""> <i class="fa fa-angle-double-right"></i><b class="GM"> </b></a><b class="GM"><a href="https://www.unifeso.edu.br/detalhe-estrutura.php?campus=6" style="text-decoration:underline;">CESO</a></b><br>
+Av. Alberto Torres, 111 - Alto - Teresópolis
+</p>
+<p><a href="https://www.unifeso.edu.br/cursos/EaD/hospital/index.php" title=""> <i class="fa fa-angle-double-right"></i><b class="GM"> </b></a><b class="GM"><a href="https://www.unifeso.edu.br/detalhe-estrutura.php?campus=4" style="text-decoration:underline;">HCTCO</a></b><br>
+Av. Delfim Moreira, 2211 Vale Paraíso - Teresópolis</p>
+
+	<p><a href="https://www.unifeso.edu.br/cursos/EaD/hospital/ambulatorio.php" title=""> <i class="fa fa-angle-double-right"></i><b class="GM"> </b></a><b class="GM"><a href="https://www.unifeso.edu.br/detalhe-estrutura.php?campus=5" style="text-decoration:underline;">Centro Médico</a></b><br>
+Rua Tenente Luiz Meirelles, 789 - Várzea - Teresópolis</p>
+<p><a href="https://www.unifeso.edu.br/servicos/odonto_esc.php" target="_blank" style="text-decoration:underline;"> <i class="fa fa-angle-double-right"></i><b class="GM"> Clínica-Escola de Odontologia</b></a><br>Av. Alberto Torres, 111 - Alto - Teresópolis</p>
+		<p><a href="https://www.unifeso.edu.br/servicos/odonto_pro.php" target="_blank" style="text-decoration:underline;"> <i class="fa fa-angle-double-right"></i><b class="GM"> Clínica Profissional de Odontologia</b></a><br>Av. Alberto Torres, 111 - Alto - Teresópolis</p>
+		<p><a href="https://www.unifeso.edu.br/servicos/fisioterapia.php" target="_blank" style="text-decoration:underline;"> <i class="fa fa-angle-double-right"></i><b class="GM"> Clínica-Escola de Fisioterapia</b></a><br>Estrada da Prata, s/n - Prata - Teresópolis</p>
+		<p><a href="https://www.unifeso.edu.br/servicos/veterinaria.php" target="_blank" style="text-decoration:underline;"> <i class="fa fa-angle-double-right"></i><b class="GM"> Clínica-Escola de Veterinária</b></a><br>Estrada da Prata, s/n - Prata - Teresópolis</p>
+		<p><a href="https://www.unifeso.edu.br/servicos/npj.php" target="_blank" style="text-decoration:underline;"> <i class="fa fa-angle-double-right"></i><b class="GM"> Núcleo de Prática Jurídica</b></a><br>Rua Tenente Luiz Meirelles, 789 - Várzea - Teresópolis</p>
+  
+	
+</div>
+</div> 
+
+
+<!-- <div id="footer_dir" class="col-md-2 col-sm-6 col-xs-12" style="padding-left:2%">
+<div class="footer-info-single">
+
+
+  <div style="padding-bottom: 27px;"></div>
+  
+        <p><a href="https://www.unifeso.edu.br/servicos/odonto_esc.php" target="_blank" style="text-decoration:underline;"> <i class="fa fa-angle-double-right"></i><b class="GM"> Clínica-Escola de Odontologia</b></a><br />Av. Alberto Torres, 111 - Alto - Teresópolis - CEP: 25964-004</p>
+		<p><a href="https://www.unifeso.edu.br/servicos/odonto_pro.php" target="_blank" style="text-decoration:underline;"> <i class="fa fa-angle-double-right"></i><b class="GM"> Clínica Profissional de Odontologia</b></a><br />Av. Alberto Torres, 111 - Alto - Teresópolis - CEP: 25964-004</p>
+		<p><a href="https://www.unifeso.edu.br/servicos/fisioterapia.php" target="_blank" style="text-decoration:underline;"> <i class="fa fa-angle-double-right"></i><b class="GM"> Clínica-Escola de Fisioterapia</b></a><br />Estrada Wenceslau José de Medeiros, 1045 - Prata - Teresópolis - CEP:25976-345</p>
+		<p><a href="https://www.unifeso.edu.br/servicos/veterinaria.php" target="_blank" style="text-decoration:underline;"> <i class="fa fa-angle-double-right"></i><b class="GM"> Clínica-Escola de Veterinária</b></a><br />Estrada Wenceslau José de Medeiros, 1045 - Prata - Teresópolis - CEP:25976-345</p>
+		<p><a href="https://www.unifeso.edu.br/servicos/npj.php" target="_blank" style="text-decoration:underline;"> <i class="fa fa-angle-double-right"></i><b class="GM"> Núcleo de Prática Jurídica</b></a><br />Av. Alberto Torres, 111 - Alto - Teresópolis / CEP: 25964-004</p>
+	
+</div>
+</div> -->
+</div>
+</div>
+
+
+<div class="container GBK about"> 
+		<img src="./logo-graduacao_files/cebas2.png" width="100px" style="width: 250px;margin-right: 30px;">
+	<a href="https://emec.mec.gov.br/emec/consulta-cadastro/detalhamento/d96957f455f6405d14c6542552b0f6eb/NDgw" target="_blank">
+		<img src="./logo-graduacao_files/e-mec2.png" width="100px" style="width: 250px;">
+	</a>
+</div>
+<!-- <div class="container GBK about" >
+<img src="https://www.unifeso.edu.br/images/CEBAS_SELO-4.png" width="100px"/>
+<p><Br>Empresa Certificada como Entidade Beneficente de Assistência Social na área da Educação</p>
+</div> -->
+
+<section class="copyright">
+<div class="container">
+ 
+<div class="row">
+<div class="col-sm-12">
+<p style="text-align: center; font-size:12px;"><!--O Centro Universitário Serra dos Órgãos - UNIFESO, o Centro Educacional Serra dos Órgãos - CESO, o Hospital das Clínicas de Teresópolis Costantino Ottaviano - HCTCO, o Centro Cultural FESO Pro Arte e a Editora FESO são marcas registradas da Fundação Educacional Serra dos Órgãos - FESO<br />-->Copyright © 2023. Unifeso - Desenvolvido por <a href="http://www.blueinteligencia.com.br/" target="_BLANK">Blue Inteligência Empresarial</a></p>
+</div>
+<!--<div class="col-sm-6"></div>-->
+</div>
+</div>
+</section>
+</footer>
+
+<!-- Global site tag (gtag.js) - Google Analytics -->
+<script async="" src="./logo-graduacao_files/js(1)"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'UA-118283581-1');
+</script>
+
+<!-- Global site tag (gtag.js) - Google Ads: 863126961 -->
+<script async="" src="./logo-graduacao_files/js(2)"></script>
+<script>
+  window.dataLayer = window.dataLayer || [];
+  function gtag(){dataLayer.push(arguments);}
+  gtag('js', new Date());
+
+  gtag('config', 'AW-863126961');
+</script><link rel="stylesheet" href="./logo-graduacao_files/cookies.css">
+  
+  
+<div class="cookies_container" style="display: none;">
+    <div class="cookies_content">
+      <p>Utilizamos cookies essenciais e tecnologias semelhantes de acordo com a nossa <a href="https://www.unifeso.edu.br/portal_de_privacidade.php">Política de Privacidade</a>. Ao continuar navegando, você concorda com estas condições.</p>
+      <!-- <button class="cookies-exit" >Recusar Cookies</button> -->
+      <button class="cookies-save">OK</button>
+    </div>
+  </div>
+  <script src="./logo-graduacao_files/cookies.js.download"></script>
+  <script src="./logo-graduacao_files/js.cookie.min.js.download"></script><iframe allow="join-ad-interest-group" data-tagging-id="AW-863126961" data-load-time="1694807951804" height="0" width="0" style="display: none; visibility: hidden;" src="./logo-graduacao_files/863126961.html"></iframe>
+
+
+
+
+
+</body></html>
