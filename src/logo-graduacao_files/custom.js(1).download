@@ -1,0 +1,275 @@
+$(document).ready(function(){
+    $('.customer-logos').slick({
+        slidesToShow: 6,
+        slidesToScroll: 1,
+        autoplay: true,
+        autoplaySpeed: 1500,
+        arrows: false,
+        dots: false,
+        pauseOnHover: false,
+        responsive: [{
+            breakpoint: 768,
+            settings: {
+                slidesToShow: 4
+            }
+        }, {
+            breakpoint: 520,
+            settings: {
+                slidesToShow: 1
+            }
+        }]
+    });
+});
+
+
+$('a[href*="#"]')
+  // Remove links that don't actually link to anything
+  .not('[href="#myCarousel"]')    .not('[href="#myCarousel111"]')
+  .not('[href="#bootstrap-touch-slider"]')
+  .not('[href="#tab_default_todos"]')
+  .not('[href="#tab_default_1"]')
+  .not('[href="#tab_default_2"]')
+  .not('[href="#tab_default_3"]')
+  .not('[href="#collapse1"]')
+  .not('[href="#collapse2"]')
+  .not('[href="#collapse3"]')
+  .not('[href="#collapse4"]')
+  .not('[href="#collapse5"]')
+  .not('[href="#collapse6"]')
+  .not('[href="#collapse7"]')
+  .not('[href="#collapse8"]')
+  .not('[href="#collapse9"]')
+  .not('[href="#collapse10"]')
+  .not('[href="#collapse11"]')
+  .not('[href="#collapse12"]')
+  .not('[href="#tab_1"]')
+  .not('[href="#tab_2"]')
+  .not('[href="#tab_3"]')
+  .not('[href="#tab_4"]')
+  .not('[href="#tab_5"]')
+  .not('[href="#tab_6"]')
+  .not('[href="#tab_7"]')
+  .not('[href="#tab_8"]')
+  .not('[href="#tab_9"]')
+  .not('[href="#tab_10"]')
+  .not('[href="#tab_11"]')
+  .not('[href="#tab_12"]')
+  .not('[href="#tab_13"]')
+  .not('[href="#menu1"]')
+  .not('[href="#menu222"]')
+  .not('[href="#menu3"]')
+  .not('[href="#menu4"]')
+  .not('[href="#menu5"]')
+  .not('[href="#cont1"]')
+  .not('[href="#cont2"]')
+  .not('[href="#cont3"]')
+  .not('[href="#cont4"]')
+  .not('[href="#cont5"]')
+  .not('[href="#cont6"]')
+  .not('[href="#cont7"]')
+  .not('[href="#cont8"]')
+  .not('[href="#cont9"]')
+  .not('[href="#cont10"]')
+  .not('[href="#cont11"]')
+  .not('[href="#cont12"]')
+  .not('[href="#cont13"]')
+  .not('[href="#cont14"]')
+  .not('[href="#cont15"]')
+  .not('[href="#cont16"]')
+  .not('[href="#cont17"]')
+  .not('[href="#cont18"]')
+
+  .click(function(event) {
+    // On-page links
+    if (
+      location.pathname.replace(/^\//, '') == this.pathname.replace(/^\//, '') 
+      && 
+      location.hostname == this.hostname
+    ) {
+      // Figure out element to scroll to
+      var target = $(this.hash);
+      target = target.length ? target : $('[name=' + this.hash.slice(1) + ']');
+      // Does a scroll target exist?
+      if (target.length) {
+        // Only prevent default if animation is actually gonna happen
+        event.preventDefault();
+        $('html, body').animate({
+          scrollTop: target.offset().top
+        }, 1000, function() {
+          // Callback after animation
+          // Must change focus!
+          var $target = $(target);
+          $target.focus();
+          if ($target.is(":focus")) { // Checking if the target was focused
+            return false;
+          } else {
+            $target.attr('tabindex','-1'); // Adding tabindex for elements not focusable
+            $target.focus(); // Set focus again
+          };
+        });
+      }
+    }
+  });
+  
+  
+  
+  
+    $(document).ready(function(){
+    $(window).scroll(function(){
+        if ($(this).scrollTop() > 100) {
+            $('a[href="#top"]').fadeIn();
+        } else {
+            $('a[href="#top"]').fadeOut();
+        }
+		
+    });
+
+   <!-- O que acontece quando é clicado -->
+     $('.scrollup_fade,.back_top').click(function(){ <!-- Quando o botão é clicado -->
+          $("html, body").animate({scrollTop: 0 }, 600); <!-- A nossa página vai fazer "scrollTop" a uma velocidade de 600 -->
+          return false;
+     });
+});
+
+
+function get_browser(){
+    var ua=navigator.userAgent,tem,M=ua.match(/(opera|chrome|safari|firefox|msie|trident(?=\/))\/?\s*(\d+)/i) || []; 
+    if(/trident/i.test(M[1])){
+        tem=/\brv[ :]+(\d+)/g.exec(ua) || []; 
+        return {name:'IE',version:(tem[1]||'')};
+        }   
+    if(M[1]==='Chrome'){
+        tem=ua.match(/\bOPR\/(\d+)/)
+        if(tem!=null)   {return {name:'Opera', version:tem[1]};}
+        }   
+    M=M[2]? [M[1], M[2]]: [navigator.appName, navigator.appVersion, '-?'];
+    if((tem=ua.match(/version\/(\d+)/i))!=null) {M.splice(1,1,tem[1]);}
+    return {
+      name: M[0],
+      version: M[1]
+    };
+ }
+ 
+
+new SmoothScroll12();
+
+
+function SmoothScroll12(el) {
+	
+	var browser=get_browser();
+	
+	
+	if(browser.name == "Chrome"){}else{
+		
+	
+  var t = this, h = document.documentElement;
+  el = el || window;
+  t.rAF = false;
+  t.target = 0;
+  t.scroll = 0;
+  t.animate = function() {
+    t.scroll += (t.target - t.scroll) * 0.1;
+    if (Math.abs(t.scroll.toFixed(5) - t.target) <= 0.47131) {
+      cancelAnimationFrame(t.rAF);
+      t.rAF = false;
+    }
+    if (el == window) scrollTo(0, t.scroll);
+    else el.scrollTop = t.scroll;
+    if (t.rAF) t.rAF = requestAnimationFrame(t.animate);
+  };
+  el.onmousewheel = function(e) {
+    e.preventDefault();
+    e.stopPropagation();
+    var scrollEnd = (el == window) ? h.scrollHeight - h.clientHeight : el.scrollHeight - el.clientHeight;
+    t.target += (e.wheelDelta > 0) ? -70 : 70;
+    if (t.target < 0) t.target = 0;
+    if (t.target > scrollEnd) t.target = scrollEnd;
+    if (!t.rAF) t.rAF = requestAnimationFrame(t.animate);
+  };
+  el.onscroll = function() {
+    if (t.rAF) return;
+    t.target = (el == window) ? pageYOffset || h.scrollTop : el.scrollTop;
+    t.scroll = t.target;
+  };
+  
+	}
+}
+
+
+
+
+ $(document).ready(function() {
+    $("#news-slider").owlCarousel({
+        items:4,
+        itemsDesktop:[1199,2],
+        itemsDesktopSmall:[1000,2],
+        itemsMobile:[700,1],
+        pagination:false,
+        navigationText:false,
+        autoPlay:true
+    });
+});
+
+
+
+
+
+$(document).ready(function(){
+    $(".dropdown1").hover(            
+        function() {
+            $('.dropdown-menu', this).not('.in .dropdown-menu').stop(true,true).slideDown("400");
+            $(this).toggleClass('open');        
+        },
+        function() {
+            $('.dropdown-menu', this).not('.in .dropdown-menu').stop(true,true).slideUp("400");
+            $(this).toggleClass('open');       
+        }
+    );
+});
+
+$( ".crossRotate" ).click(function() {
+    //alert($( this ).css( "transform" ));
+    if (  $( this ).css( "transform" ) == 'none' ){
+        $(this).css("transform","rotate(45deg)");
+    } else {
+        $(this).css("transform","" );
+    }
+});
+
+
+
+
+
+   $(document).ready(function() {
+  
+  var $wrapper = $('.tab-wrapper'),
+      $allTabs = $wrapper.find('.tab-content > div'),
+      $tabMenu = $wrapper.find('.tab-menu li'),
+      $line = $('<div class="line"></div>').appendTo($tabMenu);
+  
+  $allTabs.not(':first-of-type').hide();  
+  $tabMenu.filter(':first-of-type').find(':first').width('100%')
+  
+  $tabMenu.each(function(i) {
+    $(this).attr('data-tab', 'tab'+i);
+  });
+  
+  $allTabs.each(function(i) {
+    $(this).attr('data-tab', 'tab'+i);
+  });
+  
+  $tabMenu.on('click', function() {
+    
+    var dataTab = $(this).data('tab'),
+        $getWrapper = $(this).closest($wrapper);
+    
+    $getWrapper.find($tabMenu).removeClass('active');
+    $(this).addClass('active');
+    
+    $getWrapper.find('.line').width(0);
+    $(this).find($line).animate({'width':'100%'}, 'fast');
+    $getWrapper.find($allTabs).hide();
+    $getWrapper.find($allTabs).filter('[data-tab='+dataTab+']').show();
+  });
+
+});//end ready
